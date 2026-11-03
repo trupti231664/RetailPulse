@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Brand,UnitPrice,UnitCost,ProfitPerUnit,SupplierLeadDays
+PRD00001,Keyboard Model 0001,Electronics,Brand24,205.71,94.75,110.96,22
+PRD00002,Cotton T-Shirt Model 0002,Clothing,Brand68,463.73,287.32,176.41,17
+PRD00003,Slippers Model 0003,Footwear,Brand71,4727.13,3373.72,1353.41,28
+PRD00004,Tea Pack Model 0004,Groceries,Brand62,20.3,13.31,6.99,30
+PRD00005,Sunscreen Model 0005,Beauty and Personal Care,Brand73,4318.32,2543.07,1775.25,3
+PRD00006,Storage Basket Model 0006,Home and Living,Brand21,10733.64,7493.85,3239.79,9
+PRD00007,Skipping Rope Model 0007,Sports and Fitness,Brand73,17192.63,13178.64,4013.99,5
+PRD00008,Python Programming Book Model 0008,Books,Brand23,369.85,208.75,161.1,26
+PRD00009,Notebook Model 0009,Stationery,Brand47,40.45,26.06,14.39,11
+PRD00010,Diaper Pack Model 0010,Baby Products,Brand64,188.18,118.19,69.99,29
+PRD00011,Garden Hose Model 0011,Garden and Outdoor,Brand31,70341.2,50551.31,19789.89,10
+PRD00012,Car Charger Model 0012,Automotive Accessories,Brand42,155.93,89.42,66.51,14
+PRD00013,Travel Pillow Model 0013,Travel Accessories,Brand18,329.8,190.65,139.15,25
+PRD00014,Fashion Ring Model 0014,Jewellery and Accessories,Brand73,4100.25,2094.52,2005.73,24
+PRD00015,Board Game Model 0015,Toys and Games,Brand49,26524.63,15803.95,10720.68,2
+PRD00016,Pet Bed Model 0016,Pet Supplies,Brand40,30826.77,20630.06,10196.71,6
+PRD00017,Toaster Model 0017,Kitchen Appliances,Brand55,81695.82,63395.74,18300.08,25
+PRD00018,Phone Holder Model 0018,Mobile Accessories,Brand54,16347.55,7824.8,8522.75,1
+PRD00019,Bookshelf Model 0019,Furniture,Brand63,6117.08,3805.29,2311.79,30
+PRD00020,First Aid Kit Model 0020,Health and Wellness,Brand16,802.88,397.12,405.76,13
+PRD00021,Calculator Model 0021,Office Supplies,Brand63,67842.58,38637.89,29204.69,28
+PRD00022,Photo Frame Model 0022,Home Decor,Brand80,92520.21,43508.84,49011.37,16
+PRD00023,Bread Loaf Model 0023,Food and Bakery,Brand10,603.55,281.66,321.89,28
+PRD00024,Coffee Can Model 0024,Beverages,Brand23,55.85,44.47,11.38,15
+PRD00025,Tool Box Model 0025,Hardware and Tools,Brand15,147.86,92.93,54.93,8
+PRD00026,Smart Plug Model 0026,Electrical Supplies,Brand65,1991.82,1102.97,888.85,18
+PRD00027,Paint Brush Set Model 0027,Arts and Crafts,Brand14,1665.8,1262.12,403.68,7
+PRD00028,Birthday Balloons Model 0028,Party Supplies,Brand16,46.89,21.27,25.62,17
+PRD00029,Ukulele Model 0029,Musical Instruments,Brand30,19891.74,12154.89,7736.85,17
+PRD00030,Steel Straw Set Model 0030,Eco-Friendly Products,Brand51,1223.69,763.94,459.75,1
+PRD00031,Laptop Stand Model 0031,Electronics,Brand48,2007.66,1390.89,616.77,14
+PRD00032,Hoodie Model 0032,Clothing,Brand15,414.56,229.94,184.62,1
+PRD00033,Slippers Model 0033,Footwear,Brand29,6475.93,4030.44,2445.49,5
+PRD00034,Wheat Flour Model 0034,Groceries,Brand26,445.69,291.07,154.62,15
+PRD00035,Hair Oil Model 0035,Beauty and Personal Care,Brand03,242.78,174.26,68.52,19
+PRD00036,Ceramic Mug Model 0036,Home and Living,Brand78,415.79,193.0,222.79,18
+PRD00037,Gym Gloves Model 0037,Sports and Fitness,Brand58,11601.65,5331.59,6270.06,13
+PRD00038,Python Programming Book Model 0038,Books,Brand08,4815.39,3437.9,1377.49,13
+PRD00039,Sticky Notes Model 0039,Stationery,Brand30,2763.52,1589.45,1174.07,19
+PRD00040,Feeding Bottle Model 0040,Baby Products,Brand14,33404.39,20596.75,12807.64,25
+PRD00041,Watering Can Model 0041,Garden and Outdoor,Brand47,52145.3,38888.96,13256.34,14
+PRD00042,Car Cleaning Kit Model 0042,Automotive Accessories,Brand47,972.39,633.97,338.42,16
+PRD00043,Passport Holder Model 0043,Travel Accessories,Brand61,35266.68,23565.58,11701.1,16
+PRD00044,Fashion Ring Model 0044,Jewellery and Accessories,Brand46,10502.74,5194.75,5307.99,17
+PRD00045,Educational Toy Model 0045,Toys and Games,Brand02,290.85,176.78,114.07,15
+PRD00046,Pet Toy Model 0046,Pet Supplies,Brand12,4140.09,2278.75,1861.34,1
+PRD00047,Rice Cooker Model 0047,Kitchen Appliances,Brand64,644.1,464.16,179.94,12
+PRD00048,Wireless Charger Model 0048,Mobile Accessories,Brand47,168.09,96.77,71.32,26
+PRD00049,Coffee Table Model 0049,Furniture,Brand73,22178.9,14056.43,8122.47,13
+PRD00050,Massage Roller Model 0050,Health and Wellness,Brand16,302.84,175.56,127.28,30
+PRD00051,Calculator Model 0051,Office Supplies,Brand25,1087.91,825.57,262.34,10
+PRD00052,Curtains Model 0052,Home Decor,Brand66,7965.94,3898.33,4067.61,26
+PRD00053,Biscuit Pack Model 0053,Food and Bakery,Brand25,257.5,153.94,103.56,15
+PRD00054,Mineral Water Model 0054,Beverages,Brand74,7371.72,3506.68,3865.04,18
+PRD00055,Wrench Set Model 0055,Hardware and Tools,Brand55,495.07,316.61,178.46,30
+PRD00056,Electrical Tape Model 0056,Electrical Supplies,Brand77,3369.06,2427.36,941.7,16
+PRD00057,Sketchbook Model 0057,Arts and Crafts,Brand56,2549.23,1890.12,659.11,6
+PRD00058,Paper Plates Model 0058,Party Supplies,Brand43,24.66,13.06,11.6,8
+PRD00059,Drumsticks Model 0059,Musical Instruments,Brand59,44548.63,31917.46,12631.17,21
+PRD00060,Reusable Lunch Box Model 0060,Eco-Friendly Products,Brand30,2139.66,1132.48,1007.18,27
+PRD00061,Power Bank Model 0061,Electronics,Brand39,29410.42,17460.37,11950.05,30
+PRD00062,Denim Jeans Model 0062,Clothing,Brand54,385.72,228.35,157.37,13
+PRD00063,Casual Sneakers Model 0063,Footwear,Brand70,19116.0,11528.84,7587.16,11
+PRD00064,Coffee Powder Model 0064,Groceries,Brand80,656.76,376.39,280.37,28
+PRD00065,Face Wash Model 0065,Beauty and Personal Care,Brand73,22168.57,13493.5,8675.07,13
+PRD00066,Cushion Cover Model 0066,Home and Living,Brand30,436.47,267.05,169.42,16
+PRD00067,Water Shaker Model 0067,Sports and Fitness,Brand05,1198.61,562.96,635.65,27
+PRD00068,Novel Model 0068,Books,Brand60,716.08,327.4,388.68,23
+PRD00069,Marker Set Model 0069,Stationery,Brand04,19.15,12.16,6.99,7
+PRD00070,Baby Carrier Model 0070,Baby Products,Brand55,6411.69,3731.58,2680.11,4
+PRD00071,Garden Hose Model 0071,Garden and Outdoor,Brand22,452.41,285.32,167.09,8
+PRD00072,Car Cleaning Kit Model 0072,Automotive Accessories,Brand60,92486.91,63512.05,28974.86,3
+PRD00073,Suitcase Model 0073,Travel Accessories,Brand41,952.35,614.98,337.37,15
+PRD00074,Necklace Model 0074,Jewellery and Accessories,Brand28,77362.56,43135.46,34227.1,16
+PRD00075,Educational Toy Model 0075,Toys and Games,Brand61,942.15,683.81,258.34,21
+PRD00076,Pet Toy Model 0076,Pet Supplies,Brand05,36938.32,24894.49,12043.83,27
+PRD00077,Rice Cooker Model 0077,Kitchen Appliances,Brand61,857.46,400.97,456.49,12
+PRD00078,Phone Holder Model 0078,Mobile Accessories,Brand70,2624.84,1385.59,1239.25,22
+PRD00079,Office Chair Model 0079,Furniture,Brand27,64312.13,45987.57,18324.56,29
+PRD00080,Heating Pad Model 0080,Health and Wellness,Brand48,2368.03,1666.6,701.43,28
+PRD00081,File Folder Model 0081,Office Supplies,Brand52,60398.66,29320.38,31078.28,11
+PRD00082,Artificial Plant Model 0082,Home Decor,Brand79,4616.37,2656.65,1959.72,8
+PRD00083,Muffin Pack Model 0083,Food and Bakery,Brand80,1772.95,981.46,791.49,9
+PRD00084,Green Tea Model 0084,Beverages,Brand09,22.73,14.63,8.1,3
+PRD00085,Tool Box Model 0085,Hardware and Tools,Brand28,10986.26,5300.25,5686.01,7
+PRD00086,Electrical Tape Model 0086,Electrical Supplies,Brand53,2968.29,2188.56,779.73,21
+PRD00087,Sketchbook Model 0087,Arts and Crafts,Brand55,9093.26,5851.02,3242.24,23
+PRD00088,Birthday Balloons Model 0088,Party Supplies,Brand20,1990.2,1482.77,507.43,2
+PRD00089,Acoustic Guitar Model 0089,Musical Instruments,Brand76,17484.4,13087.96,4396.44,16
+PRD00090,Compost Bin Model 0090,Eco-Friendly Products,Brand62,252.34,136.61,115.73,27
+PRD00091,Bluetooth Speaker Model 0091,Electronics,Brand47,401.9,260.94,140.96,17
+PRD00092,Denim Jeans Model 0092,Clothing,Brand44,31335.37,17756.71,13578.66,10
+PRD00093,Casual Sneakers Model 0093,Footwear,Brand64,1497.09,746.97,750.12,4
+PRD00094,Coffee Powder Model 0094,Groceries,Brand14,239.28,137.87,101.41,30
+PRD00095,Sunscreen Model 0095,Beauty and Personal Care,Brand03,109.03,54.82,54.21,28
+PRD00096,Ceramic Mug Model 0096,Home and Living,Brand59,48322.5,23392.62,24929.88,2
+PRD00097,Resistance Band Model 0097,Sports and Fitness,Brand39,2610.61,1982.78,627.83,18
+PRD00098,Business Book Model 0098,Books,Brand48,19159.48,13532.62,5626.86,23
+PRD00099,Marker Set Model 0099,Stationery,Brand17,525.28,386.23,139.05,2
+PRD00100,Diaper Pack Model 0100,Baby Products,Brand71,137.49,92.75,44.74,10
+PRD00101,Garden Tool Set Model 0101,Garden and Outdoor,Brand46,4069.14,1901.84,2167.3,12
+PRD00102,Car Charger Model 0102,Automotive Accessories,Brand32,4262.22,2161.37,2100.85,9
+PRD00103,Passport Holder Model 0103,Travel Accessories,Brand73,17211.0,13401.48,3809.52,30
+PRD00104,Pendant Model 0104,Jewellery and Accessories,Brand66,13353.17,7062.67,6290.5,5
+PRD00105,Puzzle Set Model 0105,Toys and Games,Brand69,6758.62,3138.44,3620.18,11
+PRD00106,Dog Food Model 0106,Pet Supplies,Brand44,13435.61,9832.95,3602.66,23
+PRD00107,Rice Cooker Model 0107,Kitchen Appliances,Brand68,77203.35,37847.24,39356.11,29
+PRD00108,Phone Case Model 0108,Mobile Accessories,Brand28,6103.1,2844.89,3258.21,3
+PRD00109,Study Table Model 0109,Furniture,Brand65,29572.1,15322.53,14249.57,10
+PRD00110,Heating Pad Model 0110,Health and Wellness,Brand75,6563.7,4894.75,1668.95,28
+PRD00111,Calculator Model 0111,Office Supplies,Brand60,462.08,267.75,194.33,18
+PRD00112,Photo Frame Model 0112,Home Decor,Brand37,171.08,115.47,55.61,13
+PRD00113,Biscuit Pack Model 0113,Food and Bakery,Brand21,8734.51,5309.85,3424.66,29
+PRD00114,Cold Coffee Model 0114,Beverages,Brand73,9476.78,6738.68,2738.1,21
+PRD00115,Tool Box Model 0115,Hardware and Tools,Brand51,154.04,104.53,49.51,15
+PRD00116,Electrical Tape Model 0116,Electrical Supplies,Brand21,14274.5,6541.36,7733.14,10
+PRD00117,Watercolor Set Model 0117,Arts and Crafts,Brand69,765.93,606.55,159.38,5
+PRD00118,Paper Plates Model 0118,Party Supplies,Brand70,744.65,337.16,407.49,27
+PRD00119,Ukulele Model 0119,Musical Instruments,Brand75,163291.38,98730.91,64560.47,14
+PRD00120,Bamboo Toothbrush Model 0120,Eco-Friendly Products,Brand03,4465.0,2908.27,1556.73,6
+PRD00121,Wireless Mouse Model 0121,Electronics,Brand27,53279.87,28595.82,24684.05,10
+PRD00122,Formal Trousers Model 0122,Clothing,Brand60,733.98,401.36,332.62,28
+PRD00123,Sandals Model 0123,Footwear,Brand30,20096.13,10693.95,9402.18,25
+PRD00124,Wheat Flour Model 0124,Groceries,Brand39,391.76,255.47,136.29,16
+PRD00125,Shampoo Model 0125,Beauty and Personal Care,Brand05,119.29,54.2,65.09,13
+PRD00126,Storage Basket Model 0126,Home and Living,Brand35,426.07,291.82,134.25,17
+PRD00127,Water Shaker Model 0127,Sports and Fitness,Brand18,38122.73,17626.61,20496.12,27
+PRD00128,Novel Model 0128,Books,Brand76,335.62,233.06,102.56,6
+PRD00129,Marker Set Model 0129,Stationery,Brand39,12.18,7.23,4.95,2
+PRD00130,Feeding Bottle Model 0130,Baby Products,Brand55,773.28,455.47,317.81,26
+PRD00131,Plant Pot Model 0131,Garden and Outdoor,Brand60,5836.16,3886.76,1949.4,13
+PRD00132,Seat Cover Model 0132,Automotive Accessories,Brand10,31192.05,23814.54,7377.51,30
+PRD00133,Suitcase Model 0133,Travel Accessories,Brand41,976.14,628.59,347.55,4
+PRD00134,Silver Earrings Model 0134,Jewellery and Accessories,Brand46,1008.17,516.87,491.3,19
+PRD00135,Educational Toy Model 0135,Toys and Games,Brand34,202.52,114.01,88.51,14
+PRD00136,Pet Toy Model 0136,Pet Supplies,Brand63,2358.43,1472.27,886.16,8
+PRD00137,Rice Cooker Model 0137,Kitchen Appliances,Brand17,6800.55,5303.87,1496.68,19
+PRD00138,Phone Holder Model 0138,Mobile Accessories,Brand41,49223.15,36162.17,13060.98,29
+PRD00139,Bookshelf Model 0139,Furniture,Brand08,42963.47,21677.0,21286.47,29
+PRD00140,First Aid Kit Model 0140,Health and Wellness,Brand45,31662.49,19641.96,12020.53,9
+PRD00141,File Folder Model 0141,Office Supplies,Brand48,293.57,229.3,64.27,20
+PRD00142,Curtains Model 0142,Home Decor,Brand08,205.76,108.27,97.49,24
+PRD00143,Cookies Box Model 0143,Food and Bakery,Brand63,15789.05,11201.69,4587.36,27
+PRD00144,Green Tea Model 0144,Beverages,Brand44,276.93,198.53,78.4,27
+PRD00145,Screwdriver Set Model 0145,Hardware and Tools,Brand64,209.27,118.38,90.89,11
+PRD00146,Electrical Tape Model 0146,Electrical Supplies,Brand35,300.76,143.4,157.36,14
+PRD00147,Acrylic Paint Model 0147,Arts and Crafts,Brand04,110.15,62.45,47.7,20
+PRD00148,Gift Bag Model 0148,Party Supplies,Brand62,3341.86,2481.74,860.12,9
+PRD00149,Keyboard Piano Model 0149,Musical Instruments,Brand46,10633.36,7141.49,3491.87,17
+PRD00150,Reusable Shopping Bag Model 0150,Eco-Friendly Products,Brand66,44579.26,28061.27,16517.99,22
+PRD00151,Wireless Mouse Model 0151,Electronics,Brand29,221.82,156.58,65.24,30
+PRD00152,Summer Dress Model 0152,Clothing,Brand43,562.78,410.91,151.87,20
+PRD00153,Slippers Model 0153,Footwear,Brand55,55305.96,36425.15,18880.81,14
+PRD00154,Tea Pack Model 0154,Groceries,Brand16,183.61,92.64,90.97,8
+PRD00155,Shampoo Model 0155,Beauty and Personal Care,Brand16,15200.58,10885.63,4314.95,26
+PRD00156,Storage Basket Model 0156,Home and Living,Brand51,892.15,627.67,264.48,15
+PRD00157,Yoga Mat Model 0157,Sports and Fitness,Brand39,19753.8,12630.41,7123.39,17
+PRD00158,Cookbook Model 0158,Books,Brand16,10927.18,7060.73,3866.45,14
+PRD00159,Notebook Model 0159,Stationery,Brand16,3463.26,1641.68,1821.58,20
+PRD00160,Baby Blanket Model 0160,Baby Products,Brand48,33128.55,17949.12,15179.43,18
+PRD00161,Watering Can Model 0161,Garden and Outdoor,Brand09,871.96,466.14,405.82,7
+PRD00162,Car Cleaning Kit Model 0162,Automotive Accessories,Brand59,15979.52,8667.06,7312.46,22
+PRD00163,Packing Cubes Model 0163,Travel Accessories,Brand72,2256.42,1321.29,935.13,24
+PRD00164,Watch Model 0164,Jewellery and Accessories,Brand69,402.27,210.38,191.89,16
+PRD00165,Board Game Model 0165,Toys and Games,Brand41,121.31,66.29,55.02,5
+PRD00166,Dog Food Model 0166,Pet Supplies,Brand18,146.17,114.4,31.77,21
+PRD00167,Hand Blender Model 0167,Kitchen Appliances,Brand28,762.8,373.38,389.42,7
+PRD00168,Phone Holder Model 0168,Mobile Accessories,Brand34,3324.52,2167.69,1156.83,1
+PRD00169,Bookshelf Model 0169,Furniture,Brand09,26791.65,12309.59,14482.06,11
+PRD00170,Yoga Block Model 0170,Health and Wellness,Brand56,35121.2,23038.77,12082.43,10
+PRD00171,Calculator Model 0171,Office Supplies,Brand01,43.62,26.07,17.55,22
+PRD00172,Curtains Model 0172,Home Decor,Brand51,86367.04,63543.0,22824.04,2
+PRD00173,Bread Loaf Model 0173,Food and Bakery,Brand34,5249.61,2554.83,2694.78,10
+PRD00174,Green Tea Model 0174,Beverages,Brand44,1160.19,568.72,591.47,25
+PRD00175,Wrench Set Model 0175,Hardware and Tools,Brand61,24047.85,17961.21,6086.64,20
+PRD00176,Extension Board Model 0176,Electrical Supplies,Brand47,130.57,95.71,34.86,3
+PRD00177,Craft Paper Model 0177,Arts and Crafts,Brand19,2254.62,1454.22,800.4,14
+PRD00178,Gift Wrap Model 0178,Party Supplies,Brand13,9378.6,5852.56,3526.04,25
+PRD00179,Flute Model 0179,Musical Instruments,Brand49,2437.75,1758.04,679.71,24
+PRD00180,Reusable Shopping Bag Model 0180,Eco-Friendly Products,Brand54,131.96,86.89,45.07,26
+PRD00181,Wireless Mouse Model 0181,Electronics,Brand24,9100.26,4301.13,4799.13,10
+PRD00182,Denim Jeans Model 0182,Clothing,Brand80,13228.7,6898.17,6330.53,20
+PRD00183,Running Shoes Model 0183,Footwear,Brand73,4396.65,3406.39,990.26,28
+PRD00184,Cooking Oil Model 0184,Groceries,Brand07,656.74,476.23,180.51,10
+PRD00185,Sunscreen Model 0185,Beauty and Personal Care,Brand20,6922.34,3799.65,3122.69,14
+PRD00186,Wall Clock Model 0186,Home and Living,Brand67,4094.31,2672.48,1421.83,28
+PRD00187,Skipping Rope Model 0187,Sports and Fitness,Brand61,16173.53,10110.63,6062.9,17
+PRD00188,Cookbook Model 0188,Books,Brand11,903.75,411.8,491.95,16
+PRD00189,Ball Pen Set Model 0189,Stationery,Brand13,3559.41,1635.78,1923.63,18
+PRD00190,Feeding Bottle Model 0190,Baby Products,Brand19,574.41,277.77,296.64,19
+PRD00191,Watering Can Model 0191,Garden and Outdoor,Brand14,1949.8,1147.46,802.34,7
+PRD00192,Car Cleaning Kit Model 0192,Automotive Accessories,Brand53,375.76,257.55,118.21,25
+PRD00193,Travel Pillow Model 0193,Travel Accessories,Brand11,20016.66,14516.99,5499.67,9
+PRD00194,Pendant Model 0194,Jewellery and Accessories,Brand06,2156.31,1390.09,766.22,19
+PRD00195,Educational Toy Model 0195,Toys and Games,Brand75,2614.42,1838.84,775.58,22
+PRD00196,Cat Food Model 0196,Pet Supplies,Brand33,119.85,57.27,62.58,13
+PRD00197,Mixer Grinder Model 0197,Kitchen Appliances,Brand53,1036.63,783.92,252.71,29
+PRD00198,Phone Holder Model 0198,Mobile Accessories,Brand57,26732.98,13253.88,13479.1,30
+PRD00199,Wardrobe Model 0199,Furniture,Brand77,48320.43,36716.52,11603.91,24
+PRD00200,Massage Roller Model 0200,Health and Wellness,Brand20,388.2,296.77,91.43,25
+PRD00201,Calculator Model 0201,Office Supplies,Brand05,29189.07,22089.77,7099.3,2
+PRD00202,Curtains Model 0202,Home Decor,Brand73,361.84,271.86,89.98,13
+PRD00203,Cookies Box Model 0203,Food and Bakery,Brand14,44.45,28.16,16.29,28
+PRD00204,Mineral Water Model 0204,Beverages,Brand14,509.05,334.75,174.3,21
+PRD00205,Measuring Tape Model 0205,Hardware and Tools,Brand02,35709.06,21599.45,14109.61,28
+PRD00206,Extension Board Model 0206,Electrical Supplies,Brand63,64.42,48.78,15.64,8
+PRD00207,Watercolor Set Model 0207,Arts and Crafts,Brand42,186.64,147.15,39.49,17
+PRD00208,Gift Wrap Model 0208,Party Supplies,Brand73,12205.2,9165.34,3039.86,30
+PRD00209,Ukulele Model 0209,Musical Instruments,Brand73,1889.45,1434.6,454.85,10
+PRD00210,Reusable Shopping Bag Model 0210,Eco-Friendly Products,Brand28,4176.06,2496.33,1679.73,27
+PRD00211,Headphones Model 0211,Electronics,Brand57,29271.23,13851.89,15419.34,15
+PRD00212,Hoodie Model 0212,Clothing,Brand20,935.83,612.92,322.91,20
+PRD00213,Slippers Model 0213,Footwear,Brand08,567.27,282.13,285.14,29
+PRD00214,Tea Pack Model 0214,Groceries,Brand56,266.73,192.98,73.75,14
+PRD00215,Hair Oil Model 0215,Beauty and Personal Care,Brand72,13708.71,9109.73,4598.98,18
+PRD00216,Wall Clock Model 0216,Home and Living,Brand56,13791.84,9302.03,4489.81,2
+PRD00217,Water Shaker Model 0217,Sports and Fitness,Brand46,23891.05,15677.52,8213.53,30
+PRD00218,Python Programming Book Model 0218,Books,Brand37,3426.06,2262.27,1163.79,22
+PRD00219,Office Diary Model 0219,Stationery,Brand63,2140.79,1240.85,899.94,29
+PRD00220,Baby Shampoo Model 0220,Baby Products,Brand24,220.72,173.77,46.95,9
+PRD00221,Garden Tool Set Model 0221,Garden and Outdoor,Brand15,110.87,62.37,48.5,21
+PRD00222,Car Cleaning Kit Model 0222,Automotive Accessories,Brand25,87446.77,52046.53,35400.24,21
+PRD00223,Travel Pillow Model 0223,Travel Accessories,Brand58,2211.01,1115.2,1095.81,24
+PRD00224,Fashion Ring Model 0224,Jewellery and Accessories,Brand03,759.68,409.42,350.26,24
+PRD00225,Puzzle Set Model 0225,Toys and Games,Brand47,116.96,78.94,38.02,15
+PRD00226,Pet Bed Model 0226,Pet Supplies,Brand79,275.52,180.56,94.96,19
+PRD00227,Toaster Model 0227,Kitchen Appliances,Brand19,4784.31,3163.9,1620.41,10
+PRD00228,Wireless Charger Model 0228,Mobile Accessories,Brand07,2901.94,2237.21,664.73,28
+PRD00229,Bookshelf Model 0229,Furniture,Brand50,2589.07,1795.29,793.78,27
+PRD00230,Yoga Block Model 0230,Health and Wellness,Brand01,127.71,86.53,41.18,24
+PRD00231,Label Printer Model 0231,Office Supplies,Brand73,121.61,79.42,42.19,22
+PRD00232,Artificial Plant Model 0232,Home Decor,Brand80,10122.64,5848.64,4274.0,10
+PRD00233,Biscuit Pack Model 0233,Food and Bakery,Brand47,1161.02,740.69,420.33,1
+PRD00234,Mineral Water Model 0234,Beverages,Brand37,113.17,51.47,61.7,4
+PRD00235,Measuring Tape Model 0235,Hardware and Tools,Brand50,67963.52,38621.91,29341.61,8
+PRD00236,Smart Plug Model 0236,Electrical Supplies,Brand44,66094.95,46660.5,19434.45,23
+PRD00237,Acrylic Paint Model 0237,Arts and Crafts,Brand06,1103.51,542.35,561.16,5
+PRD00238,Paper Plates Model 0238,Party Supplies,Brand24,95.87,56.03,39.84,22
+PRD00239,Drumsticks Model 0239,Musical Instruments,Brand36,979.83,779.43,200.4,19
+PRD00240,Bamboo Toothbrush Model 0240,Eco-Friendly Products,Brand68,12289.51,9105.26,3184.25,20
+PRD00241,Power Bank Model 0241,Electronics,Brand43,4212.98,2701.66,1511.32,19
+PRD00242,Cotton T-Shirt Model 0242,Clothing,Brand11,17033.14,12776.83,4256.31,15
+PRD00243,Slippers Model 0243,Footwear,Brand60,1482.66,721.97,760.69,16
+PRD00244,Coffee Powder Model 0244,Groceries,Brand42,70.81,39.81,31.0,4
+PRD00245,Face Wash Model 0245,Beauty and Personal Care,Brand61,576.51,301.65,274.86,9
+PRD00246,Ceramic Mug Model 0246,Home and Living,Brand70,20030.54,12641.35,7389.19,16
+PRD00247,Water Shaker Model 0247,Sports and Fitness,Brand43,995.81,681.62,314.19,21
+PRD00248,Python Programming Book Model 0248,Books,Brand76,213.36,159.84,53.52,22
+PRD00249,Notebook Model 0249,Stationery,Brand65,12.61,9.69,2.92,19
+PRD00250,Diaper Pack Model 0250,Baby Products,Brand59,15577.72,10302.69,5275.03,10
+PRD00251,Watering Can Model 0251,Garden and Outdoor,Brand60,6506.15,5159.24,1346.91,30
+PRD00252,Bike Helmet Model 0252,Automotive Accessories,Brand69,11362.36,8877.81,2484.55,23
+PRD00253,Passport Holder Model 0253,Travel Accessories,Brand17,56095.46,33144.38,22951.08,2
+PRD00254,Necklace Model 0254,Jewellery and Accessories,Brand58,2920.92,1334.59,1586.33,23
+PRD00255,Puzzle Set Model 0255,Toys and Games,Brand30,232.54,173.58,58.96,8
+PRD00256,Pet Collar Model 0256,Pet Supplies,Brand51,6135.02,4784.55,1350.47,7
+PRD00257,Mixer Grinder Model 0257,Kitchen Appliances,Brand28,9051.17,4593.37,4457.8,15
+PRD00258,Phone Case Model 0258,Mobile Accessories,Brand48,6055.15,4483.31,1571.84,28
+PRD00259,Bookshelf Model 0259,Furniture,Brand64,237461.77,111364.87,126096.9,19
+PRD00260,Yoga Block Model 0260,Health and Wellness,Brand24,42584.05,27744.6,14839.45,9
+PRD00261,Calculator Model 0261,Office Supplies,Brand22,203.13,124.44,78.69,20
+PRD00262,Decorative Lights Model 0262,Home Decor,Brand50,502.17,395.17,107.0,11
+PRD00263,Cake Box Model 0263,Food and Bakery,Brand79,15872.61,10245.58,5627.03,16
+PRD00264,Fruit Juice Model 0264,Beverages,Brand33,1090.6,731.4,359.2,2
+PRD00265,Wrench Set Model 0265,Hardware and Tools,Brand01,1870.88,976.85,894.03,8
+PRD00266,Smart Plug Model 0266,Electrical Supplies,Brand40,47237.97,23881.8,23356.17,14
+PRD00267,Sketchbook Model 0267,Arts and Crafts,Brand29,40.4,28.86,11.54,9
+PRD00268,Gift Wrap Model 0268,Party Supplies,Brand01,373.39,182.13,191.26,7
+PRD00269,Keyboard Piano Model 0269,Musical Instruments,Brand55,77401.56,54784.46,22617.1,4
+PRD00270,Steel Straw Set Model 0270,Eco-Friendly Products,Brand50,89.81,62.58,27.23,19
+PRD00271,Power Bank Model 0271,Electronics,Brand47,32187.89,17704.5,14483.39,17
+PRD00272,Casual Shirt Model 0272,Clothing,Brand79,210.94,108.83,102.11,5
+PRD00273,Slippers Model 0273,Footwear,Brand06,1944.74,1130.83,813.91,14
+PRD00274,Tea Pack Model 0274,Groceries,Brand78,28.96,19.16,9.8,30
+PRD00275,Hair Oil Model 0275,Beauty and Personal Care,Brand79,4483.54,2937.28,1546.26,30
+PRD00276,Table Lamp Model 0276,Home and Living,Brand54,209.36,110.21,99.15,6
+PRD00277,Gym Gloves Model 0277,Sports and Fitness,Brand75,896.96,406.35,490.61,1
+PRD00278,Data Science Handbook Model 0278,Books,Brand78,3536.49,1763.98,1772.51,10
+PRD00279,Marker Set Model 0279,Stationery,Brand31,2664.66,1431.05,1233.61,12
+PRD00280,Baby Shampoo Model 0280,Baby Products,Brand58,1475.27,841.46,633.81,7
+PRD00281,Garden Hose Model 0281,Garden and Outdoor,Brand20,130.64,102.32,28.32,27
+PRD00282,Car Cleaning Kit Model 0282,Automotive Accessories,Brand24,7468.29,5289.98,2178.31,16
+PRD00283,Suitcase Model 0283,Travel Accessories,Brand04,4213.35,2264.67,1948.68,4
+PRD00284,Fashion Ring Model 0284,Jewellery and Accessories,Brand66,435.02,291.37,143.65,10
+PRD00285,Board Game Model 0285,Toys and Games,Brand59,639.71,303.94,335.77,21
+PRD00286,Dog Food Model 0286,Pet Supplies,Brand10,20034.68,9893.2,10141.48,22
+PRD00287,Toaster Model 0287,Kitchen Appliances,Brand64,66711.1,51143.0,15568.1,4
+PRD00288,Wireless Charger Model 0288,Mobile Accessories,Brand73,3602.63,2378.18,1224.45,12
+PRD00289,Office Chair Model 0289,Furniture,Brand28,9988.86,7137.55,2851.31,20
+PRD00290,First Aid Kit Model 0290,Health and Wellness,Brand71,4581.58,3396.77,1184.81,5
+PRD00291,Calculator Model 0291,Office Supplies,Brand65,3422.17,2682.41,739.76,4
+PRD00292,Artificial Plant Model 0292,Home Decor,Brand54,1824.9,1427.25,397.65,13
+PRD00293,Muffin Pack Model 0293,Food and Bakery,Brand26,589.17,394.22,194.95,3
+PRD00294,Coffee Can Model 0294,Beverages,Brand66,453.81,319.53,134.28,25
+PRD00295,Tool Box Model 0295,Hardware and Tools,Brand61,14798.69,9431.81,5366.88,1
+PRD00296,LED Bulb Model 0296,Electrical Supplies,Brand24,80.16,49.37,30.79,17
+PRD00297,Watercolor Set Model 0297,Arts and Crafts,Brand36,34.09,20.79,13.3,15
+PRD00298,Gift Wrap Model 0298,Party Supplies,Brand67,165.55,89.29,76.26,29
+PRD00299,Flute Model 0299,Musical Instruments,Brand55,147605.36,88555.15,59050.21,27
+PRD00300,Bamboo Toothbrush Model 0300,Eco-Friendly Products,Brand48,121.66,90.04,31.62,9
+PRD00301,Webcam Model 0301,Electronics,Brand41,63157.19,31640.58,31516.61,17
+PRD00302,Hoodie Model 0302,Clothing,Brand48,5422.67,2692.47,2730.2,16
+PRD00303,Sandals Model 0303,Footwear,Brand24,1180.15,788.05,392.1,9
+PRD00304,Wheat Flour Model 0304,Groceries,Brand60,6144.47,2919.98,3224.49,17
+PRD00305,Sunscreen Model 0305,Beauty and Personal Care,Brand41,9908.22,6441.37,3466.85,1
+PRD00306,Table Lamp Model 0306,Home and Living,Brand31,44720.51,21332.87,23387.64,22
+PRD00307,Gym Gloves Model 0307,Sports and Fitness,Brand78,842.57,430.12,412.45,17
+PRD00308,Data Science Handbook Model 0308,Books,Brand49,1067.3,558.51,508.79,26
+PRD00309,Sticky Notes Model 0309,Stationery,Brand45,21.5,10.04,11.46,23
+PRD00310,Baby Shampoo Model 0310,Baby Products,Brand44,249.23,117.35,131.88,26
+PRD00311,Garden Hose Model 0311,Garden and Outdoor,Brand13,1990.1,1267.74,722.36,12
+PRD00312,Car Cleaning Kit Model 0312,Automotive Accessories,Brand70,439.57,256.98,182.59,19
+PRD00313,Packing Cubes Model 0313,Travel Accessories,Brand29,786.98,470.14,316.84,30
+PRD00314,Silver Earrings Model 0314,Jewellery and Accessories,Brand60,102.84,79.69,23.15,29
+PRD00315,Board Game Model 0315,Toys and Games,Brand03,920.84,466.76,454.08,27
+PRD00316,Pet Collar Model 0316,Pet Supplies,Brand51,4889.56,3848.65,1040.91,4
+PRD00317,Hand Blender Model 0317,Kitchen Appliances,Brand64,119834.8,91766.71,28068.09,15
+PRD00318,Wireless Charger Model 0318,Mobile Accessories,Brand19,24514.27,13783.1,10731.17,11
+PRD00319,Wardrobe Model 0319,Furniture,Brand54,10015.91,7140.32,2875.59,22
+PRD00320,Yoga Block Model 0320,Health and Wellness,Brand35,332.63,213.39,119.24,28
+PRD00321,Desk Organizer Model 0321,Office Supplies,Brand28,69.84,34.66,35.18,28
+PRD00322,Photo Frame Model 0322,Home Decor,Brand60,164.34,92.71,71.63,30
+PRD00323,Biscuit Pack Model 0323,Food and Bakery,Brand31,38.16,28.88,9.28,30
+PRD00324,Fruit Juice Model 0324,Beverages,Brand68,632.36,410.14,222.22,12
+PRD00325,Hammer Model 0325,Hardware and Tools,Brand06,279.18,141.42,137.76,6
+PRD00326,LED Bulb Model 0326,Electrical Supplies,Brand47,3558.83,2734.06,824.77,3
+PRD00327,Sketchbook Model 0327,Arts and Crafts,Brand10,22836.43,16459.87,6376.56,18
+PRD00328,Paper Plates Model 0328,Party Supplies,Brand61,472.55,309.44,163.11,11
+PRD00329,Acoustic Guitar Model 0329,Musical Instruments,Brand02,92202.63,69029.79,23172.84,25
+PRD00330,Compost Bin Model 0330,Eco-Friendly Products,Brand40,2322.27,1375.82,946.45,5
+PRD00331,Wireless Mouse Model 0331,Electronics,Brand69,140997.62,76915.05,64082.57,26
+PRD00332,Denim Jeans Model 0332,Clothing,Brand66,21742.86,16575.66,5167.2,14
+PRD00333,Running Shoes Model 0333,Footwear,Brand67,58298.16,42864.01,15434.15,6
+PRD00334,Wheat Flour Model 0334,Groceries,Brand24,488.08,266.06,222.02,8
+PRD00335,Sunscreen Model 0335,Beauty and Personal Care,Brand32,6425.95,3515.56,2910.39,28
+PRD00336,Cushion Cover Model 0336,Home and Living,Brand63,1740.89,1372.78,368.11,25
+PRD00337,Gym Gloves Model 0337,Sports and Fitness,Brand23,2147.97,1243.59,904.38,10
+PRD00338,Data Science Handbook Model 0338,Books,Brand02,1356.56,1032.27,324.29,2
+PRD00339,Marker Set Model 0339,Stationery,Brand72,756.7,507.25,249.45,15
+PRD00340,Feeding Bottle Model 0340,Baby Products,Brand45,2430.46,1485.75,944.71,12
+PRD00341,Garden Tool Set Model 0341,Garden and Outdoor,Brand53,2441.52,1605.29,836.23,28
+PRD00342,Car Phone Holder Model 0342,Automotive Accessories,Brand39,72537.7,45786.36,26751.34,9
+PRD00343,Packing Cubes Model 0343,Travel Accessories,Brand24,80483.41,44854.96,35628.45,9
+PRD00344,Pendant Model 0344,Jewellery and Accessories,Brand38,395.65,187.99,207.66,29
+PRD00345,Puzzle Set Model 0345,Toys and Games,Brand39,20794.38,13138.35,7656.03,1
+PRD00346,Dog Food Model 0346,Pet Supplies,Brand20,132.02,99.88,32.14,12
+PRD00347,Rice Cooker Model 0347,Kitchen Appliances,Brand62,20599.89,15221.91,5377.98,8
+PRD00348,Screen Protector Model 0348,Mobile Accessories,Brand14,2652.87,1378.35,1274.52,27
+PRD00349,Wardrobe Model 0349,Furniture,Brand22,85188.99,47416.86,37772.13,4
+PRD00350,Heating Pad Model 0350,Health and Wellness,Brand72,9181.95,4204.76,4977.19,3
+PRD00351,Label Printer Model 0351,Office Supplies,Brand51,5985.53,4238.67,1746.86,7
+PRD00352,Artificial Plant Model 0352,Home Decor,Brand11,11279.02,6397.22,4881.8,22
+PRD00353,Bread Loaf Model 0353,Food and Bakery,Brand14,2015.23,1328.51,686.72,23
+PRD00354,Green Tea Model 0354,Beverages,Brand72,43.11,30.72,12.39,9
+PRD00355,Wrench Set Model 0355,Hardware and Tools,Brand28,17396.01,12960.6,4435.41,22
+PRD00356,Power Strip Model 0356,Electrical Supplies,Brand47,53657.12,40291.79,13365.33,2
+PRD00357,Craft Paper Model 0357,Arts and Crafts,Brand73,59.28,33.15,26.13,22
+PRD00358,Birthday Balloons Model 0358,Party Supplies,Brand42,1562.18,992.87,569.31,19
+PRD00359,Ukulele Model 0359,Musical Instruments,Brand49,20941.66,12372.23,8569.43,27
+PRD00360,Compost Bin Model 0360,Eco-Friendly Products,Brand76,27789.94,15498.93,12291.01,17
+PRD00361,Power Bank Model 0361,Electronics,Brand39,765.53,514.24,251.29,5
+PRD00362,Formal Trousers Model 0362,Clothing,Brand09,395.01,214.08,180.93,9
+PRD00363,Sandals Model 0363,Footwear,Brand04,41849.71,21434.26,20415.45,2
+PRD00364,Cooking Oil Model 0364,Groceries,Brand06,154.57,87.2,67.37,10
+PRD00365,Moisturizer Model 0365,Beauty and Personal Care,Brand42,633.76,319.44,314.32,14
+PRD00366,Table Lamp Model 0366,Home and Living,Brand57,4282.91,3422.17,860.74,23
+PRD00367,Gym Gloves Model 0367,Sports and Fitness,Brand57,769.14,486.87,282.27,26
+PRD00368,Cookbook Model 0368,Books,Brand69,5488.08,3534.64,1953.44,20
+PRD00369,Marker Set Model 0369,Stationery,Brand74,88.5,43.94,44.56,17
+PRD00370,Diaper Pack Model 0370,Baby Products,Brand68,47917.79,29967.02,17950.77,26
+PRD00371,Garden Gloves Model 0371,Garden and Outdoor,Brand65,7908.9,6106.69,1802.21,15
+PRD00372,Seat Cover Model 0372,Automotive Accessories,Brand07,2606.62,1402.62,1204.0,24
+PRD00373,Passport Holder Model 0373,Travel Accessories,Brand29,307.45,237.84,69.61,13
+PRD00374,Watch Model 0374,Jewellery and Accessories,Brand14,542.42,308.52,233.9,17
+PRD00375,Educational Toy Model 0375,Toys and Games,Brand12,10470.2,6406.97,4063.23,29
+PRD00376,Pet Collar Model 0376,Pet Supplies,Brand35,1549.72,1173.6,376.12,9
+PRD00377,Hand Blender Model 0377,Kitchen Appliances,Brand02,133135.48,69125.55,64009.93,17
+PRD00378,Memory Card Model 0378,Mobile Accessories,Brand34,15023.27,8410.01,6613.26,11
+PRD00379,Wardrobe Model 0379,Furniture,Brand13,57547.05,34076.24,23470.81,12
+PRD00380,Heating Pad Model 0380,Health and Wellness,Brand63,852.09,627.55,224.54,19
+PRD00381,Label Printer Model 0381,Office Supplies,Brand23,122.3,72.15,50.15,13
+PRD00382,Curtains Model 0382,Home Decor,Brand38,518.21,409.02,109.19,4
+PRD00383,Biscuit Pack Model 0383,Food and Bakery,Brand03,10871.77,5173.77,5698.0,15
+PRD00384,Coffee Can Model 0384,Beverages,Brand16,3569.09,1772.11,1796.98,22
+PRD00385,Measuring Tape Model 0385,Hardware and Tools,Brand16,127.45,90.72,36.73,4
+PRD00386,LED Bulb Model 0386,Electrical Supplies,Brand60,481.42,358.98,122.44,7
+PRD00387,Watercolor Set Model 0387,Arts and Crafts,Brand63,25242.72,18234.89,7007.83,1
+PRD00388,Party Banner Model 0388,Party Supplies,Brand70,1337.73,850.65,487.08,29
+PRD00389,Ukulele Model 0389,Musical Instruments,Brand20,5242.27,2662.25,2580.02,17
+PRD00390,Reusable Shopping Bag Model 0390,Eco-Friendly Products,Brand68,3488.48,2467.44,1021.04,24
+PRD00391,Wireless Mouse Model 0391,Electronics,Brand54,149999.81,87409.99,62589.82,5
+PRD00392,Casual Shirt Model 0392,Clothing,Brand08,19291.76,10022.2,9269.56,25
+PRD00393,Running Shoes Model 0393,Footwear,Brand07,653.84,434.18,219.66,13
+PRD00394,Tea Pack Model 0394,Groceries,Brand50,3437.3,2511.6,925.7,2
+PRD00395,Moisturizer Model 0395,Beauty and Personal Care,Brand07,489.51,224.94,264.57,19
+PRD00396,Bedsheet Set Model 0396,Home and Living,Brand43,361.5,187.22,174.28,6
+PRD00397,Skipping Rope Model 0397,Sports and Fitness,Brand78,1383.03,678.95,704.08,28
+PRD00398,Python Programming Book Model 0398,Books,Brand55,13563.05,6916.34,6646.71,9
+PRD00399,Marker Set Model 0399,Stationery,Brand47,5324.58,2465.25,2859.33,30
+PRD00400,Feeding Bottle Model 0400,Baby Products,Brand19,6460.37,4044.83,2415.54,26
+PRD00401,Garden Hose Model 0401,Garden and Outdoor,Brand35,182.46,87.26,95.2,9
+PRD00402,Car Charger Model 0402,Automotive Accessories,Brand23,5775.73,3060.67,2715.06,29
+PRD00403,Travel Backpack Model 0403,Travel Accessories,Brand22,17871.28,12824.3,5046.98,8
+PRD00404,Necklace Model 0404,Jewellery and Accessories,Brand33,160024.44,103250.26,56774.18,26
+PRD00405,Educational Toy Model 0405,Toys and Games,Brand60,992.33,642.03,350.3,16
+PRD00406,Dog Food Model 0406,Pet Supplies,Brand11,27510.32,15205.38,12304.94,12
+PRD00407,Hand Blender Model 0407,Kitchen Appliances,Brand77,6379.12,3984.56,2394.56,16
+PRD00408,Wireless Charger Model 0408,Mobile Accessories,Brand33,36584.11,17984.01,18600.1,13
+PRD00409,Wardrobe Model 0409,Furniture,Brand58,7434.65,4618.19,2816.46,11
+PRD00410,First Aid Kit Model 0410,Health and Wellness,Brand62,763.66,477.43,286.23,12
+PRD00411,Label Printer Model 0411,Office Supplies,Brand73,1301.34,649.78,651.56,6
+PRD00412,Photo Frame Model 0412,Home Decor,Brand05,4302.83,2191.42,2111.41,29
+PRD00413,Cake Box Model 0413,Food and Bakery,Brand52,580.61,414.23,166.38,17
+PRD00414,Green Tea Model 0414,Beverages,Brand49,278.0,200.5,77.5,13
+PRD00415,Measuring Tape Model 0415,Hardware and Tools,Brand23,190.56,127.62,62.94,8
+PRD00416,LED Bulb Model 0416,Electrical Supplies,Brand34,67.67,34.8,32.87,23
+PRD00417,Paint Brush Set Model 0417,Arts and Crafts,Brand62,28875.07,18959.94,9915.13,8
+PRD00418,Birthday Balloons Model 0418,Party Supplies,Brand03,285.46,220.85,64.61,13
+PRD00419,Flute Model 0419,Musical Instruments,Brand31,90309.59,57188.06,33121.53,20
+PRD00420,Reusable Shopping Bag Model 0420,Eco-Friendly Products,Brand08,388.25,194.16,194.09,29
+PRD00421,Bluetooth Speaker Model 0421,Electronics,Brand76,430.08,237.51,192.57,25
+PRD00422,Casual Shirt Model 0422,Clothing,Brand01,14675.14,8164.0,6511.14,7
+PRD00423,Running Shoes Model 0423,Footwear,Brand48,6581.65,3745.61,2836.04,4
+PRD00424,Wheat Flour Model 0424,Groceries,Brand38,92.13,50.56,41.57,2
+PRD00425,Shampoo Model 0425,Beauty and Personal Care,Brand08,23810.54,12582.63,11227.91,10
+PRD00426,Wall Clock Model 0426,Home and Living,Brand60,3357.61,2527.19,830.42,3
+PRD00427,Skipping Rope Model 0427,Sports and Fitness,Brand56,2462.28,1403.45,1058.83,30
+PRD00428,Novel Model 0428,Books,Brand78,198.63,97.05,101.58,27
+PRD00429,Office Diary Model 0429,Stationery,Brand27,7237.46,4550.19,2687.27,12
+PRD00430,Baby Blanket Model 0430,Baby Products,Brand55,44574.2,35347.41,9226.79,28
+PRD00431,Garden Hose Model 0431,Garden and Outdoor,Brand37,36114.76,18912.63,17202.13,22
+PRD00432,Bike Helmet Model 0432,Automotive Accessories,Brand21,38541.58,28145.73,10395.85,3
+PRD00433,Packing Cubes Model 0433,Travel Accessories,Brand66,26308.57,19413.92,6894.65,22
+PRD00434,Necklace Model 0434,Jewellery and Accessories,Brand60,33308.01,24851.59,8456.42,24
+PRD00435,Board Game Model 0435,Toys and Games,Brand73,18998.41,14570.4,4428.01,30
+PRD00436,Cat Food Model 0436,Pet Supplies,Brand44,1207.33,555.3,652.03,7
+PRD00437,Toaster Model 0437,Kitchen Appliances,Brand36,145445.74,92549.71,52896.03,28
+PRD00438,Wireless Charger Model 0438,Mobile Accessories,Brand56,72.5,48.01,24.49,11
+PRD00439,Wardrobe Model 0439,Furniture,Brand56,329996.13,241868.18,88127.95,10
+PRD00440,Massage Roller Model 0440,Health and Wellness,Brand02,10021.58,4774.56,5247.02,21
+PRD00441,Printer Paper Model 0441,Office Supplies,Brand25,4262.46,2152.41,2110.05,6
+PRD00442,Photo Frame Model 0442,Home Decor,Brand58,56118.72,36323.38,19795.34,24
+PRD00443,Cake Box Model 0443,Food and Bakery,Brand08,47.87,35.97,11.9,28
+PRD00444,Green Tea Model 0444,Beverages,Brand17,382.87,208.96,173.91,15
+PRD00445,Screwdriver Set Model 0445,Hardware and Tools,Brand07,3843.53,1859.88,1983.65,18
+PRD00446,LED Bulb Model 0446,Electrical Supplies,Brand61,6441.17,2944.88,3496.29,7
+PRD00447,Paint Brush Set Model 0447,Arts and Crafts,Brand24,113.04,73.91,39.13,9
+PRD00448,Gift Wrap Model 0448,Party Supplies,Brand73,339.86,222.19,117.67,13
+PRD00449,Drumsticks Model 0449,Musical Instruments,Brand49,6894.45,4029.19,2865.26,22
+PRD00450,Reusable Lunch Box Model 0450,Eco-Friendly Products,Brand20,988.61,656.88,331.73,2
+PRD00451,Webcam Model 0451,Electronics,Brand28,2482.69,1189.36,1293.33,16
+PRD00452,Denim Jeans Model 0452,Clothing,Brand44,10481.39,6173.36,4308.03,24
+PRD00453,Slippers Model 0453,Footwear,Brand48,1727.98,875.44,852.54,10
+PRD00454,Rice Pack Model 0454,Groceries,Brand24,57.05,29.35,27.7,19
+PRD00455,Shampoo Model 0455,Beauty and Personal Care,Brand51,4904.2,3529.89,1374.31,22
+PRD00456,Bedsheet Set Model 0456,Home and Living,Brand41,136.8,70.29,66.51,2
+PRD00457,Resistance Band Model 0457,Sports and Fitness,Brand79,735.07,568.21,166.86,18
+PRD00458,Cookbook Model 0458,Books,Brand33,7129.8,3302.94,3826.86,25
+PRD00459,Ball Pen Set Model 0459,Stationery,Brand02,158.04,81.71,76.33,23
+PRD00460,Baby Blanket Model 0460,Baby Products,Brand11,7116.05,4802.35,2313.7,28
+PRD00461,Garden Tool Set Model 0461,Garden and Outdoor,Brand43,4264.32,3087.33,1176.99,17
+PRD00462,Bike Helmet Model 0462,Automotive Accessories,Brand08,548.79,432.78,116.01,18
+PRD00463,Packing Cubes Model 0463,Travel Accessories,Brand77,828.62,530.98,297.64,7
+PRD00464,Silver Earrings Model 0464,Jewellery and Accessories,Brand16,134922.2,107417.03,27505.17,5
+PRD00465,Puzzle Set Model 0465,Toys and Games,Brand79,343.04,238.31,104.73,29
+PRD00466,Dog Food Model 0466,Pet Supplies,Brand12,16445.48,12748.56,3696.92,25
+PRD00467,Toaster Model 0467,Kitchen Appliances,Brand36,40882.71,30624.51,10258.2,4
+PRD00468,Phone Case Model 0468,Mobile Accessories,Brand57,6476.6,3773.92,2702.68,4
+PRD00469,Coffee Table Model 0469,Furniture,Brand68,64853.35,43661.12,21192.23,8
+PRD00470,First Aid Kit Model 0470,Health and Wellness,Brand15,4954.32,2583.14,2371.18,18
+PRD00471,Label Printer Model 0471,Office Supplies,Brand32,162.74,123.21,39.53,25
+PRD00472,Artificial Plant Model 0472,Home Decor,Brand45,976.32,494.09,482.23,25
+PRD00473,Cake Box Model 0473,Food and Bakery,Brand75,11042.03,8046.22,2995.81,18
+PRD00474,Coffee Can Model 0474,Beverages,Brand49,896.26,704.69,191.57,8
+PRD00475,Wrench Set Model 0475,Hardware and Tools,Brand28,2226.61,1512.07,714.54,5
+PRD00476,Extension Board Model 0476,Electrical Supplies,Brand51,51.31,32.5,18.81,30
+PRD00477,Paint Brush Set Model 0477,Arts and Crafts,Brand46,384.25,271.94,112.31,24
+PRD00478,Gift Wrap Model 0478,Party Supplies,Brand33,7531.01,4303.23,3227.78,25
+PRD00479,Flute Model 0479,Musical Instruments,Brand54,61450.46,41629.65,19820.81,22
+PRD00480,Reusable Shopping Bag Model 0480,Eco-Friendly Products,Brand13,392.2,263.21,128.99,24
+PRD00481,Power Bank Model 0481,Electronics,Brand33,1503.85,937.65,566.2,3
+PRD00482,Formal Trousers Model 0482,Clothing,Brand53,21832.82,17026.86,4805.96,30
+PRD00483,Running Shoes Model 0483,Footwear,Brand07,3097.97,1509.07,1588.9,4
+PRD00484,Coffee Powder Model 0484,Groceries,Brand61,806.23,614.67,191.56,2
+PRD00485,Hair Oil Model 0485,Beauty and Personal Care,Brand21,608.85,386.68,222.17,21
+PRD00486,Wall Clock Model 0486,Home and Living,Brand79,9379.1,6723.88,2655.22,21
+PRD00487,Gym Gloves Model 0487,Sports and Fitness,Brand59,1727.6,814.21,913.39,12
+PRD00488,Novel Model 0488,Books,Brand68,128.88,85.86,43.02,26
+PRD00489,Office Diary Model 0489,Stationery,Brand51,41.27,23.21,18.06,29
+PRD00490,Feeding Bottle Model 0490,Baby Products,Brand06,21222.86,13851.42,7371.44,20
+PRD00491,Garden Tool Set Model 0491,Garden and Outdoor,Brand41,3098.22,2063.17,1035.05,11
+PRD00492,Car Charger Model 0492,Automotive Accessories,Brand41,147.72,115.79,31.93,27
+PRD00493,Travel Pillow Model 0493,Travel Accessories,Brand03,45582.32,34659.02,10923.3,24
+PRD00494,Necklace Model 0494,Jewellery and Accessories,Brand72,2341.75,1466.44,875.31,22
+PRD00495,Soft Toy Model 0495,Toys and Games,Brand79,24048.12,13486.06,10562.06,3
+PRD00496,Pet Toy Model 0496,Pet Supplies,Brand03,9008.28,4842.75,4165.53,11
+PRD00497,Mixer Grinder Model 0497,Kitchen Appliances,Brand72,4212.2,3156.54,1055.66,18
+PRD00498,Phone Holder Model 0498,Mobile Accessories,Brand28,7489.7,4512.12,2977.58,5
+PRD00499,Office Chair Model 0499,Furniture,Brand74,46454.08,21448.98,25005.1,20
+PRD00500,Massage Roller Model 0500,Health and Wellness,Brand07,687.98,367.17,320.81,18
+PRD00501,Printer Paper Model 0501,Office Supplies,Brand48,18891.29,8914.13,9977.16,6
+PRD00502,Curtains Model 0502,Home Decor,Brand30,3882.27,2632.24,1250.03,25
+PRD00503,Biscuit Pack Model 0503,Food and Bakery,Brand58,24.93,14.97,9.96,6
+PRD00504,Coffee Can Model 0504,Beverages,Brand28,1493.08,1178.22,314.86,17
+PRD00505,Wrench Set Model 0505,Hardware and Tools,Brand31,38366.88,23879.56,14487.32,18
+PRD00506,LED Bulb Model 0506,Electrical Supplies,Brand24,35.18,17.35,17.83,8
+PRD00507,Craft Paper Model 0507,Arts and Crafts,Brand71,1018.81,531.47,487.34,15
+PRD00508,Gift Wrap Model 0508,Party Supplies,Brand46,338.79,161.19,177.6,29
+PRD00509,Ukulele Model 0509,Musical Instruments,Brand76,5706.64,2866.02,2840.62,28
+PRD00510,Compost Bin Model 0510,Eco-Friendly Products,Brand03,1540.04,1040.07,499.97,29
+PRD00511,Webcam Model 0511,Electronics,Brand77,278.02,181.08,96.94,21
+PRD00512,Formal Trousers Model 0512,Clothing,Brand72,8646.46,4717.22,3929.24,15
+PRD00513,Formal Shoes Model 0513,Footwear,Brand44,573.73,291.11,282.62,25
+PRD00514,Tea Pack Model 0514,Groceries,Brand70,885.13,638.58,246.55,2
+PRD00515,Moisturizer Model 0515,Beauty and Personal Care,Brand03,962.95,438.13,524.82,14
+PRD00516,Table Lamp Model 0516,Home and Living,Brand09,16650.62,9690.16,6960.46,14
+PRD00517,Skipping Rope Model 0517,Sports and Fitness,Brand57,197.53,94.26,103.27,9
+PRD00518,Novel Model 0518,Books,Brand78,3330.33,2508.63,821.7,23
+PRD00519,Marker Set Model 0519,Stationery,Brand22,2151.35,1427.06,724.29,6
+PRD00520,Baby Carrier Model 0520,Baby Products,Brand47,15538.76,12084.41,3454.35,29
+PRD00521,Garden Tool Set Model 0521,Garden and Outdoor,Brand21,34760.96,23226.07,11534.89,25
+PRD00522,Car Charger Model 0522,Automotive Accessories,Brand44,4937.19,2271.57,2665.62,11
+PRD00523,Passport Holder Model 0523,Travel Accessories,Brand07,1384.78,752.7,632.08,4
+PRD00524,Necklace Model 0524,Jewellery and Accessories,Brand07,25730.38,17997.04,7733.34,2
+PRD00525,Building Blocks Model 0525,Toys and Games,Brand80,12985.64,10092.78,2892.86,29
+PRD00526,Cat Food Model 0526,Pet Supplies,Brand52,103.74,76.92,26.82,5
+PRD00527,Electric Kettle Model 0527,Kitchen Appliances,Brand30,25205.58,15315.82,9889.76,24
+PRD00528,Phone Case Model 0528,Mobile Accessories,Brand27,675.35,470.96,204.39,16
+PRD00529,Study Table Model 0529,Furniture,Brand28,7687.65,3892.11,3795.54,23
+PRD00530,Heating Pad Model 0530,Health and Wellness,Brand44,5306.41,2893.65,2412.76,20
+PRD00531,Calculator Model 0531,Office Supplies,Brand07,326.72,236.42,90.3,21
+PRD00532,Decorative Lights Model 0532,Home Decor,Brand80,270.16,159.34,110.82,30
+PRD00533,Biscuit Pack Model 0533,Food and Bakery,Brand39,5749.13,3664.06,2085.07,24
+PRD00534,Coffee Can Model 0534,Beverages,Brand47,115.29,52.77,62.52,4
+PRD00535,Hammer Model 0535,Hardware and Tools,Brand52,204.91,155.3,49.61,4
+PRD00536,Power Strip Model 0536,Electrical Supplies,Brand09,302.36,213.66,88.7,30
+PRD00537,Paint Brush Set Model 0537,Arts and Crafts,Brand73,38196.31,27754.81,10441.5,23
+PRD00538,Birthday Balloons Model 0538,Party Supplies,Brand62,1456.78,921.72,535.06,13
+PRD00539,Drumsticks Model 0539,Musical Instruments,Brand26,96154.52,70567.49,25587.03,5
+PRD00540,Steel Straw Set Model 0540,Eco-Friendly Products,Brand30,334.54,214.73,119.81,11
+PRD00541,Headphones Model 0541,Electronics,Brand63,345.45,179.94,165.51,15
+PRD00542,Cotton T-Shirt Model 0542,Clothing,Brand18,47218.68,23847.99,23370.69,1
+PRD00543,Casual Sneakers Model 0543,Footwear,Brand36,10412.09,5213.86,5198.23,23
+PRD00544,Rice Pack Model 0544,Groceries,Brand65,273.05,207.63,65.42,30
+PRD00545,Face Wash Model 0545,Beauty and Personal Care,Brand60,17215.02,8282.56,8932.46,17
+PRD00546,Wall Clock Model 0546,Home and Living,Brand76,5617.43,2980.63,2636.8,9
+PRD00547,Water Shaker Model 0547,Sports and Fitness,Brand26,847.83,559.91,287.92,18
+PRD00548,Data Science Handbook Model 0548,Books,Brand39,8655.86,6446.38,2209.48,24
+PRD00549,Office Diary Model 0549,Stationery,Brand39,53.26,28.32,24.94,6
+PRD00550,Baby Shampoo Model 0550,Baby Products,Brand15,1115.43,851.97,263.46,17
+PRD00551,Garden Hose Model 0551,Garden and Outdoor,Brand12,273.09,207.64,65.45,6
+PRD00552,Car Charger Model 0552,Automotive Accessories,Brand67,28136.47,21410.78,6725.69,5
+PRD00553,Travel Pillow Model 0553,Travel Accessories,Brand70,78698.46,35790.63,42907.83,13
+PRD00554,Fashion Ring Model 0554,Jewellery and Accessories,Brand33,97454.69,69084.61,28370.08,6
+PRD00555,Educational Toy Model 0555,Toys and Games,Brand35,34534.15,17364.55,17169.6,27
+PRD00556,Pet Bed Model 0556,Pet Supplies,Brand66,2372.15,1455.94,916.21,21
+PRD00557,Electric Kettle Model 0557,Kitchen Appliances,Brand03,8911.2,5872.49,3038.71,15
+PRD00558,Memory Card Model 0558,Mobile Accessories,Brand72,218.04,154.14,63.9,20
+PRD00559,Bookshelf Model 0559,Furniture,Brand51,103752.53,62991.47,40761.06,30
+PRD00560,Massage Roller Model 0560,Health and Wellness,Brand12,10936.7,7602.43,3334.27,26
+PRD00561,Calculator Model 0561,Office Supplies,Brand77,12833.48,9029.55,3803.93,23
+PRD00562,Decorative Lights Model 0562,Home Decor,Brand58,5141.12,2590.8,2550.32,8
+PRD00563,Cookies Box Model 0563,Food and Bakery,Brand48,29.92,13.9,16.02,18
+PRD00564,Coffee Can Model 0564,Beverages,Brand20,1620.57,746.07,874.5,28
+PRD00565,Hammer Model 0565,Hardware and Tools,Brand64,98.13,74.51,23.62,27
+PRD00566,Extension Board Model 0566,Electrical Supplies,Brand64,444.95,223.6,221.35,6
+PRD00567,Paint Brush Set Model 0567,Arts and Crafts,Brand23,69.22,54.39,14.83,7
+PRD00568,Paper Plates Model 0568,Party Supplies,Brand75,1071.57,690.27,381.3,2
+PRD00569,Flute Model 0569,Musical Instruments,Brand01,615.56,291.39,324.17,30
+PRD00570,Bamboo Toothbrush Model 0570,Eco-Friendly Products,Brand64,53.27,24.4,28.87,15
+PRD00571,Keyboard Model 0571,Electronics,Brand78,2748.08,2129.18,618.9,3
+PRD00572,Formal Trousers Model 0572,Clothing,Brand58,2263.75,1593.44,670.31,20
+PRD00573,Casual Sneakers Model 0573,Footwear,Brand38,405.32,296.77,108.55,2
+PRD00574,Snack Pack Model 0574,Groceries,Brand15,150.59,70.5,80.09,18
+PRD00575,Hair Oil Model 0575,Beauty and Personal Care,Brand28,821.94,374.76,447.18,16
+PRD00576,Wall Clock Model 0576,Home and Living,Brand04,1514.64,1062.47,452.17,9
+PRD00577,Gym Gloves Model 0577,Sports and Fitness,Brand43,840.12,470.24,369.88,14
+PRD00578,Business Book Model 0578,Books,Brand74,28364.15,20073.78,8290.37,12
+PRD00579,Notebook Model 0579,Stationery,Brand38,350.5,158.39,192.11,6
+PRD00580,Baby Shampoo Model 0580,Baby Products,Brand25,17169.54,12939.19,4230.35,16
+PRD00581,Garden Tool Set Model 0581,Garden and Outdoor,Brand12,4749.35,2681.55,2067.8,11
+PRD00582,Bike Helmet Model 0582,Automotive Accessories,Brand39,1068.96,840.82,228.14,15
+PRD00583,Travel Pillow Model 0583,Travel Accessories,Brand62,48718.12,37734.36,10983.76,29
+PRD00584,Watch Model 0584,Jewellery and Accessories,Brand41,501.2,391.52,109.68,23
+PRD00585,Puzzle Set Model 0585,Toys and Games,Brand25,385.67,302.97,82.7,10
+PRD00586,Pet Bed Model 0586,Pet Supplies,Brand52,303.46,179.96,123.5,29
+PRD00587,Mixer Grinder Model 0587,Kitchen Appliances,Brand51,8115.94,4697.37,3418.57,24
+PRD00588,Phone Holder Model 0588,Mobile Accessories,Brand09,8622.71,5705.09,2917.62,6
+PRD00589,Study Table Model 0589,Furniture,Brand14,171168.75,88282.55,82886.2,6
+PRD00590,Massage Roller Model 0590,Health and Wellness,Brand63,674.07,368.39,305.68,10
+PRD00591,Calculator Model 0591,Office Supplies,Brand24,5545.17,3212.25,2332.92,10
+PRD00592,Wall Art Model 0592,Home Decor,Brand20,1457.97,670.79,787.18,16
+PRD00593,Bread Loaf Model 0593,Food and Bakery,Brand75,804.34,566.69,237.65,24
+PRD00594,Fruit Juice Model 0594,Beverages,Brand26,2401.11,1167.8,1233.31,26
+PRD00595,Tool Box Model 0595,Hardware and Tools,Brand78,4676.39,3627.6,1048.79,21
+PRD00596,Smart Plug Model 0596,Electrical Supplies,Brand59,5693.46,4143.17,1550.29,18
+PRD00597,Watercolor Set Model 0597,Arts and Crafts,Brand29,60.38,47.7,12.68,14
+PRD00598,Paper Plates Model 0598,Party Supplies,Brand49,8601.74,4001.14,4600.6,14
+PRD00599,Drumsticks Model 0599,Musical Instruments,Brand06,2447.32,1290.26,1157.06,26
+PRD00600,Compost Bin Model 0600,Eco-Friendly Products,Brand49,201.53,107.19,94.34,9
+PRD00601,Power Bank Model 0601,Electronics,Brand66,233.62,137.0,96.62,15
+PRD00602,Formal Trousers Model 0602,Clothing,Brand05,20137.09,9414.92,10722.17,15
+PRD00603,Sandals Model 0603,Footwear,Brand48,8476.06,5882.43,2593.63,17
+PRD00604,Rice Pack Model 0604,Groceries,Brand49,109.11,73.27,35.84,12
+PRD00605,Shampoo Model 0605,Beauty and Personal Care,Brand17,338.76,256.7,82.06,13
+PRD00606,Ceramic Mug Model 0606,Home and Living,Brand09,998.06,779.7,218.36,11
+PRD00607,Water Shaker Model 0607,Sports and Fitness,Brand22,29416.03,18417.55,10998.48,2
+PRD00608,Business Book Model 0608,Books,Brand05,2160.15,1628.29,531.86,12
+PRD00609,Sticky Notes Model 0609,Stationery,Brand09,15.59,8.28,7.31,7
+PRD00610,Baby Shampoo Model 0610,Baby Products,Brand65,13761.11,10447.14,3313.97,6
+PRD00611,Garden Hose Model 0611,Garden and Outdoor,Brand05,78482.16,44375.79,34106.37,3
+PRD00612,Bike Helmet Model 0612,Automotive Accessories,Brand48,6506.57,3410.72,3095.85,20
+PRD00613,Passport Holder Model 0613,Travel Accessories,Brand09,2811.35,1809.89,1001.46,1
+PRD00614,Pendant Model 0614,Jewellery and Accessories,Brand39,103.41,59.07,44.34,1
+PRD00615,Building Blocks Model 0615,Toys and Games,Brand50,24721.88,15480.38,9241.5,4
+PRD00616,Pet Bed Model 0616,Pet Supplies,Brand73,6739.79,3601.29,3138.5,15
+PRD00617,Rice Cooker Model 0617,Kitchen Appliances,Brand73,1850.6,895.81,954.79,10
+PRD00618,Phone Holder Model 0618,Mobile Accessories,Brand31,31588.36,21828.63,9759.73,26
+PRD00619,Wardrobe Model 0619,Furniture,Brand15,67079.83,37083.84,29995.99,22
+PRD00620,Massage Roller Model 0620,Health and Wellness,Brand43,143.13,95.08,48.05,3
+PRD00621,Calculator Model 0621,Office Supplies,Brand50,53971.43,36272.69,17698.74,24
+PRD00622,Decorative Lights Model 0622,Home Decor,Brand46,33718.51,17331.7,16386.81,24
+PRD00623,Muffin Pack Model 0623,Food and Bakery,Brand36,1906.54,1165.25,741.29,22
+PRD00624,Fruit Juice Model 0624,Beverages,Brand71,123.62,74.43,49.19,24
+PRD00625,Measuring Tape Model 0625,Hardware and Tools,Brand37,65456.14,37201.22,28254.92,1
+PRD00626,Power Strip Model 0626,Electrical Supplies,Brand38,5756.39,4101.62,1654.77,14
+PRD00627,Paint Brush Set Model 0627,Arts and Crafts,Brand04,38.9,28.75,10.15,25
+PRD00628,Gift Wrap Model 0628,Party Supplies,Brand29,746.46,363.53,382.93,28
+PRD00629,Drumsticks Model 0629,Musical Instruments,Brand47,255253.46,194736.94,60516.52,30
+PRD00630,Steel Straw Set Model 0630,Eco-Friendly Products,Brand62,43792.06,22501.25,21290.81,1
+PRD00631,Bluetooth Speaker Model 0631,Electronics,Brand12,130869.69,102818.32,28051.37,23
+PRD00632,Hoodie Model 0632,Clothing,Brand25,9392.97,6405.08,2987.89,20
+PRD00633,Sandals Model 0633,Footwear,Brand44,44498.3,26591.06,17907.24,4
+PRD00634,Coffee Powder Model 0634,Groceries,Brand41,169.35,125.97,43.38,13
+PRD00635,Moisturizer Model 0635,Beauty and Personal Care,Brand16,10555.06,5800.8,4754.26,3
+PRD00636,Bedsheet Set Model 0636,Home and Living,Brand05,2137.24,1684.68,452.56,11
+PRD00637,Water Shaker Model 0637,Sports and Fitness,Brand35,11139.61,6805.39,4334.22,21
+PRD00638,Business Book Model 0638,Books,Brand31,3493.75,2540.91,952.84,4
+PRD00639,Marker Set Model 0639,Stationery,Brand41,12.12,8.02,4.1,7
+PRD00640,Baby Blanket Model 0640,Baby Products,Brand10,2473.51,1852.85,620.66,11
+PRD00641,Garden Hose Model 0641,Garden and Outdoor,Brand71,473.88,243.27,230.61,17
+PRD00642,Car Cleaning Kit Model 0642,Automotive Accessories,Brand47,257.72,193.4,64.32,15
+PRD00643,Packing Cubes Model 0643,Travel Accessories,Brand63,1479.8,1132.73,347.07,19
+PRD00644,Pendant Model 0644,Jewellery and Accessories,Brand73,26840.07,19645.1,7194.97,23
+PRD00645,Educational Toy Model 0645,Toys and Games,Brand52,3153.2,2042.61,1110.59,14
+PRD00646,Pet Toy Model 0646,Pet Supplies,Brand03,45634.94,23096.82,22538.12,27
+PRD00647,Electric Kettle Model 0647,Kitchen Appliances,Brand12,11934.76,7121.1,4813.66,30
+PRD00648,Phone Case Model 0648,Mobile Accessories,Brand42,273.02,131.49,141.53,6
+PRD00649,Coffee Table Model 0649,Furniture,Brand52,418418.38,280350.34,138068.04,3
+PRD00650,Yoga Block Model 0650,Health and Wellness,Brand16,3249.09,2236.41,1012.68,12
+PRD00651,Calculator Model 0651,Office Supplies,Brand58,72998.75,56975.85,16022.9,27
+PRD00652,Curtains Model 0652,Home Decor,Brand13,22538.05,17402.67,5135.38,20
+PRD00653,Cookies Box Model 0653,Food and Bakery,Brand44,3773.89,2295.48,1478.41,5
+PRD00654,Mineral Water Model 0654,Beverages,Brand52,6870.56,5206.34,1664.22,24
+PRD00655,Wrench Set Model 0655,Hardware and Tools,Brand30,250.54,166.04,84.5,8
+PRD00656,Power Strip Model 0656,Electrical Supplies,Brand23,50.62,38.87,11.75,16
+PRD00657,Craft Paper Model 0657,Arts and Crafts,Brand72,506.16,233.85,272.31,8
+PRD00658,Party Banner Model 0658,Party Supplies,Brand77,569.74,331.32,238.42,13
+PRD00659,Acoustic Guitar Model 0659,Musical Instruments,Brand27,15126.24,10430.25,4695.99,11
+PRD00660,Bamboo Toothbrush Model 0660,Eco-Friendly Products,Brand46,5450.43,3117.88,2332.55,2
+PRD00661,Webcam Model 0661,Electronics,Brand17,434.11,230.84,203.27,4
+PRD00662,Formal Trousers Model 0662,Clothing,Brand70,1601.14,905.55,695.59,27
+PRD00663,Formal Shoes Model 0663,Footwear,Brand63,1383.4,1082.96,300.44,21
+PRD00664,Rice Pack Model 0664,Groceries,Brand80,879.57,483.14,396.43,3
+PRD00665,Body Lotion Model 0665,Beauty and Personal Care,Brand48,4628.98,3393.27,1235.71,14
+PRD00666,Bedsheet Set Model 0666,Home and Living,Brand45,619.67,291.92,327.75,27
+PRD00667,Resistance Band Model 0667,Sports and Fitness,Brand40,5140.0,3685.04,1454.96,14
+PRD00668,Data Science Handbook Model 0668,Books,Brand26,3843.33,2409.02,1434.31,26
+PRD00669,Marker Set Model 0669,Stationery,Brand03,60.42,36.58,23.84,23
+PRD00670,Baby Shampoo Model 0670,Baby Products,Brand63,618.9,349.5,269.4,13
+PRD00671,Garden Tool Set Model 0671,Garden and Outdoor,Brand46,290.16,216.53,73.63,4
+PRD00672,Car Phone Holder Model 0672,Automotive Accessories,Brand63,1264.44,981.74,282.7,28
+PRD00673,Travel Backpack Model 0673,Travel Accessories,Brand23,37935.87,18349.83,19586.04,21
+PRD00674,Silver Earrings Model 0674,Jewellery and Accessories,Brand64,56762.25,35884.38,20877.87,30
+PRD00675,Educational Toy Model 0675,Toys and Games,Brand28,2554.9,1548.6,1006.3,17
+PRD00676,Dog Food Model 0676,Pet Supplies,Brand06,9819.51,7630.61,2188.9,13
+PRD00677,Rice Cooker Model 0677,Kitchen Appliances,Brand31,4191.24,2191.57,1999.67,1
+PRD00678,Phone Case Model 0678,Mobile Accessories,Brand43,2116.61,1311.09,805.52,15
+PRD00679,Bookshelf Model 0679,Furniture,Brand19,5435.27,2515.28,2919.99,17
+PRD00680,Digital Thermometer Model 0680,Health and Wellness,Brand14,1263.42,703.67,559.75,25
+PRD00681,File Folder Model 0681,Office Supplies,Brand73,147.04,91.54,55.5,15
+PRD00682,Wall Art Model 0682,Home Decor,Brand80,2246.34,1297.68,948.66,20
+PRD00683,Cookies Box Model 0683,Food and Bakery,Brand57,2929.54,2271.04,658.5,16
+PRD00684,Fruit Juice Model 0684,Beverages,Brand19,456.41,207.91,248.5,3
+PRD00685,Screwdriver Set Model 0685,Hardware and Tools,Brand30,460.18,266.15,194.03,21
+PRD00686,Electrical Tape Model 0686,Electrical Supplies,Brand38,801.44,484.15,317.29,6
+PRD00687,Acrylic Paint Model 0687,Arts and Crafts,Brand65,165.11,120.23,44.88,9
+PRD00688,Party Banner Model 0688,Party Supplies,Brand68,16163.82,11554.86,4608.96,14
+PRD00689,Acoustic Guitar Model 0689,Musical Instruments,Brand24,18031.31,10103.36,7927.95,8
+PRD00690,Reusable Lunch Box Model 0690,Eco-Friendly Products,Brand48,135.81,75.68,60.13,23
+PRD00691,Webcam Model 0691,Electronics,Brand79,443.29,288.45,154.84,24
+PRD00692,Denim Jeans Model 0692,Clothing,Brand20,10797.02,7134.76,3662.26,9
+PRD00693,Running Shoes Model 0693,Footwear,Brand36,4447.83,2131.45,2316.38,26
+PRD00694,Wheat Flour Model 0694,Groceries,Brand44,636.75,449.57,187.18,1
+PRD00695,Face Wash Model 0695,Beauty and Personal Care,Brand49,910.75,597.29,313.46,29
+PRD00696,Bedsheet Set Model 0696,Home and Living,Brand42,211.69,156.24,55.45,25
+PRD00697,Yoga Mat Model 0697,Sports and Fitness,Brand66,38115.84,27807.15,10308.69,17
+PRD00698,Python Programming Book Model 0698,Books,Brand67,903.09,503.33,399.76,7
+PRD00699,Notebook Model 0699,Stationery,Brand55,35.64,25.3,10.34,13
+PRD00700,Baby Carrier Model 0700,Baby Products,Brand06,18187.2,10012.04,8175.16,23
+PRD00701,Plant Pot Model 0701,Garden and Outdoor,Brand10,2878.73,1663.1,1215.63,5
+PRD00702,Car Cleaning Kit Model 0702,Automotive Accessories,Brand23,1130.42,538.17,592.25,2
+PRD00703,Packing Cubes Model 0703,Travel Accessories,Brand16,5894.06,3739.59,2154.47,16
+PRD00704,Silver Earrings Model 0704,Jewellery and Accessories,Brand76,62682.84,44302.96,18379.88,27
+PRD00705,Puzzle Set Model 0705,Toys and Games,Brand26,2099.78,1262.35,837.43,2
+PRD00706,Pet Toy Model 0706,Pet Supplies,Brand29,4605.01,3017.76,1587.25,19
+PRD00707,Toaster Model 0707,Kitchen Appliances,Brand57,10724.49,6240.89,4483.6,8
+PRD00708,Phone Holder Model 0708,Mobile Accessories,Brand44,11273.93,8562.46,2711.47,24
+PRD00709,Coffee Table Model 0709,Furniture,Brand65,19557.72,9514.08,10043.64,13
+PRD00710,First Aid Kit Model 0710,Health and Wellness,Brand67,68813.61,32892.74,35920.87,26
+PRD00711,Label Printer Model 0711,Office Supplies,Brand14,114.69,84.11,30.58,29
+PRD00712,Decorative Lights Model 0712,Home Decor,Brand63,4537.35,2348.03,2189.32,19
+PRD00713,Cookies Box Model 0713,Food and Bakery,Brand31,10410.98,4930.93,5480.05,17
+PRD00714,Fruit Juice Model 0714,Beverages,Brand46,1472.71,774.99,697.72,28
+PRD00715,Measuring Tape Model 0715,Hardware and Tools,Brand53,51203.9,30472.52,20731.38,29
+PRD00716,Electrical Tape Model 0716,Electrical Supplies,Brand52,14214.17,9815.91,4398.26,27
+PRD00717,Paint Brush Set Model 0717,Arts and Crafts,Brand40,1066.76,481.76,585.0,26
+PRD00718,Birthday Balloons Model 0718,Party Supplies,Brand33,19515.68,14853.79,4661.89,3
+PRD00719,Drumsticks Model 0719,Musical Instruments,Brand18,2967.38,1829.74,1137.64,3
+PRD00720,Steel Straw Set Model 0720,Eco-Friendly Products,Brand40,7406.6,4039.3,3367.3,15
+PRD00721,Laptop Stand Model 0721,Electronics,Brand04,147129.65,94841.99,52287.66,30
+PRD00722,Formal Trousers Model 0722,Clothing,Brand57,36158.26,23941.12,12217.14,16
+PRD00723,Sandals Model 0723,Footwear,Brand70,9689.43,5622.47,4066.96,25
+PRD00724,Wheat Flour Model 0724,Groceries,Brand29,9439.01,6366.98,3072.03,24
+PRD00725,Sunscreen Model 0725,Beauty and Personal Care,Brand30,2613.42,2048.09,565.33,23
+PRD00726,Ceramic Mug Model 0726,Home and Living,Brand09,20360.46,10965.57,9394.89,7
+PRD00727,Yoga Mat Model 0727,Sports and Fitness,Brand03,14685.84,8493.82,6192.02,4
+PRD00728,Business Book Model 0728,Books,Brand76,132.46,70.93,61.53,2
+PRD00729,Sticky Notes Model 0729,Stationery,Brand79,168.64,94.95,73.69,26
+PRD00730,Feeding Bottle Model 0730,Baby Products,Brand09,16060.88,9791.69,6269.19,11
+PRD00731,Garden Tool Set Model 0731,Garden and Outdoor,Brand22,69.5,54.57,14.93,29
+PRD00732,Bike Helmet Model 0732,Automotive Accessories,Brand42,81795.79,46037.32,35758.47,19
+PRD00733,Packing Cubes Model 0733,Travel Accessories,Brand77,669.65,509.71,159.94,8
+PRD00734,Bracelet Model 0734,Jewellery and Accessories,Brand59,837.89,447.23,390.66,16
+PRD00735,Building Blocks Model 0735,Toys and Games,Brand64,2414.16,1902.78,511.38,25
+PRD00736,Pet Toy Model 0736,Pet Supplies,Brand22,375.75,209.48,166.27,3
+PRD00737,Electric Kettle Model 0737,Kitchen Appliances,Brand50,753.14,418.16,334.98,23
+PRD00738,Wireless Charger Model 0738,Mobile Accessories,Brand18,9843.62,7011.52,2832.1,21
+PRD00739,Office Chair Model 0739,Furniture,Brand41,14606.09,8421.6,6184.49,18
+PRD00740,Heating Pad Model 0740,Health and Wellness,Brand56,140.88,70.94,69.94,14
+PRD00741,File Folder Model 0741,Office Supplies,Brand48,2415.28,1473.1,942.18,9
+PRD00742,Decorative Lights Model 0742,Home Decor,Brand57,2592.05,1386.42,1205.63,13
+PRD00743,Cake Box Model 0743,Food and Bakery,Brand02,142.58,103.66,38.92,19
+PRD00744,Mineral Water Model 0744,Beverages,Brand16,49.98,23.47,26.51,10
+PRD00745,Screwdriver Set Model 0745,Hardware and Tools,Brand43,29034.13,17506.02,11528.11,8
+PRD00746,LED Bulb Model 0746,Electrical Supplies,Brand44,1238.1,728.77,509.33,19
+PRD00747,Watercolor Set Model 0747,Arts and Crafts,Brand18,777.05,399.24,377.81,13
+PRD00748,Paper Plates Model 0748,Party Supplies,Brand44,36.4,17.92,18.48,27
+PRD00749,Acoustic Guitar Model 0749,Musical Instruments,Brand62,494959.16,381986.65,112972.51,28
+PRD00750,Reusable Shopping Bag Model 0750,Eco-Friendly Products,Brand46,9520.26,7351.08,2169.18,17
+PRD00751,Bluetooth Speaker Model 0751,Electronics,Brand68,4830.45,2574.81,2255.64,15
+PRD00752,Casual Shirt Model 0752,Clothing,Brand34,524.28,257.46,266.82,12
+PRD00753,Slippers Model 0753,Footwear,Brand18,1252.46,898.18,354.28,15
+PRD00754,Snack Pack Model 0754,Groceries,Brand16,42.37,23.62,18.75,9
+PRD00755,Shampoo Model 0755,Beauty and Personal Care,Brand30,15648.91,10759.47,4889.44,8
+PRD00756,Table Lamp Model 0756,Home and Living,Brand62,5639.2,4380.17,1259.03,17
+PRD00757,Skipping Rope Model 0757,Sports and Fitness,Brand63,14660.72,11079.9,3580.82,4
+PRD00758,Business Book Model 0758,Books,Brand39,1226.45,941.28,285.17,5
+PRD00759,Notebook Model 0759,Stationery,Brand07,71.88,38.12,33.76,27
+PRD00760,Diaper Pack Model 0760,Baby Products,Brand05,183.6,92.4,91.2,27
+PRD00761,Watering Can Model 0761,Garden and Outdoor,Brand22,123.91,64.15,59.76,5
+PRD00762,Bike Helmet Model 0762,Automotive Accessories,Brand42,51345.68,33848.37,17497.31,21
+PRD00763,Packing Cubes Model 0763,Travel Accessories,Brand48,581.74,315.22,266.52,5
+PRD00764,Pendant Model 0764,Jewellery and Accessories,Brand79,1828.99,1305.88,523.11,22
+PRD00765,Board Game Model 0765,Toys and Games,Brand46,239.75,140.36,99.39,13
+PRD00766,Cat Food Model 0766,Pet Supplies,Brand08,2888.29,2107.49,780.8,30
+PRD00767,Rice Cooker Model 0767,Kitchen Appliances,Brand29,937.38,749.11,188.27,11
+PRD00768,Phone Holder Model 0768,Mobile Accessories,Brand43,39132.91,31185.99,7946.92,30
+PRD00769,Office Chair Model 0769,Furniture,Brand23,4760.94,3000.87,1760.07,18
+PRD00770,Yoga Block Model 0770,Health and Wellness,Brand78,1822.17,1414.06,408.11,15
+PRD00771,Calculator Model 0771,Office Supplies,Brand63,31721.61,21576.2,10145.41,20
+PRD00772,Artificial Plant Model 0772,Home Decor,Brand30,112.35,80.58,31.77,15
+PRD00773,Muffin Pack Model 0773,Food and Bakery,Brand18,12898.49,8071.59,4826.9,24
+PRD00774,Coffee Can Model 0774,Beverages,Brand35,39.16,24.74,14.42,5
+PRD00775,Wrench Set Model 0775,Hardware and Tools,Brand64,196.9,123.27,73.63,29
+PRD00776,LED Bulb Model 0776,Electrical Supplies,Brand09,105.43,75.56,29.87,6
+PRD00777,Craft Paper Model 0777,Arts and Crafts,Brand25,866.71,423.46,443.25,15
+PRD00778,Birthday Balloons Model 0778,Party Supplies,Brand80,121.81,80.74,41.07,12
+PRD00779,Acoustic Guitar Model 0779,Musical Instruments,Brand78,21220.11,13233.37,7986.74,12
+PRD00780,Bamboo Toothbrush Model 0780,Eco-Friendly Products,Brand48,208.39,141.52,66.87,10
+PRD00781,Wireless Mouse Model 0781,Electronics,Brand07,2423.93,1601.64,822.29,26
+PRD00782,Formal Trousers Model 0782,Clothing,Brand36,5496.78,4156.46,1340.32,10
+PRD00783,Running Shoes Model 0783,Footwear,Brand78,6691.54,3345.67,3345.87,8
+PRD00784,Rice Pack Model 0784,Groceries,Brand59,4880.99,3745.79,1135.2,30
+PRD00785,Moisturizer Model 0785,Beauty and Personal Care,Brand77,239.61,162.76,76.85,17
+PRD00786,Bedsheet Set Model 0786,Home and Living,Brand48,18233.27,13478.42,4754.85,27
+PRD00787,Yoga Mat Model 0787,Sports and Fitness,Brand15,22662.94,17351.31,5311.63,1
+PRD00788,Cookbook Model 0788,Books,Brand02,7525.32,3680.6,3844.72,25
+PRD00789,Notebook Model 0789,Stationery,Brand56,22.15,13.28,8.87,10
+PRD00790,Baby Carrier Model 0790,Baby Products,Brand21,769.96,386.4,383.56,14
+PRD00791,Watering Can Model 0791,Garden and Outdoor,Brand57,3695.18,1979.9,1715.28,26
+PRD00792,Car Cleaning Kit Model 0792,Automotive Accessories,Brand21,55442.1,35802.17,19639.93,14
+PRD00793,Passport Holder Model 0793,Travel Accessories,Brand54,7278.88,4808.38,2470.5,17
+PRD00794,Necklace Model 0794,Jewellery and Accessories,Brand11,773.88,381.62,392.26,6
+PRD00795,Building Blocks Model 0795,Toys and Games,Brand11,1655.12,916.27,738.85,25
+PRD00796,Pet Bed Model 0796,Pet Supplies,Brand26,28784.83,15227.97,13556.86,28
+PRD00797,Mixer Grinder Model 0797,Kitchen Appliances,Brand10,718.83,529.88,188.95,28
+PRD00798,Wireless Charger Model 0798,Mobile Accessories,Brand33,22885.32,11912.31,10973.01,15
+PRD00799,Coffee Table Model 0799,Furniture,Brand50,5762.1,3240.84,2521.26,16
+PRD00800,Yoga Block Model 0800,Health and Wellness,Brand24,66795.37,53056.21,13739.16,27
+PRD00801,Desk Organizer Model 0801,Office Supplies,Brand27,36.76,18.63,18.13,12
+PRD00802,Photo Frame Model 0802,Home Decor,Brand07,5900.89,2798.52,3102.37,4
+PRD00803,Muffin Pack Model 0803,Food and Bakery,Brand62,7325.77,3299.33,4026.44,13
+PRD00804,Coffee Can Model 0804,Beverages,Brand26,128.01,60.36,67.65,29
+PRD00805,Screwdriver Set Model 0805,Hardware and Tools,Brand36,527.58,360.05,167.53,6
+PRD00806,Smart Plug Model 0806,Electrical Supplies,Brand53,4782.39,3631.68,1150.71,6
+PRD00807,Acrylic Paint Model 0807,Arts and Crafts,Brand19,753.24,370.01,383.23,25
+PRD00808,Birthday Balloons Model 0808,Party Supplies,Brand72,26.91,16.42,10.49,12
+PRD00809,Flute Model 0809,Musical Instruments,Brand12,15976.92,7430.84,8546.08,24
+PRD00810,Reusable Shopping Bag Model 0810,Eco-Friendly Products,Brand70,4166.59,2500.9,1665.69,15
+PRD00811,Webcam Model 0811,Electronics,Brand64,9971.78,4803.24,5168.54,22
+PRD00812,Casual Shirt Model 0812,Clothing,Brand42,4016.32,1969.75,2046.57,16
+PRD00813,Sandals Model 0813,Footwear,Brand71,1852.72,1176.16,676.56,1
+PRD00814,Tea Pack Model 0814,Groceries,Brand62,39.81,20.56,19.25,26
+PRD00815,Hair Oil Model 0815,Beauty and Personal Care,Brand25,467.74,300.44,167.3,29
+PRD00816,Storage Basket Model 0816,Home and Living,Brand51,213.34,114.02,99.32,27
+PRD00817,Resistance Band Model 0817,Sports and Fitness,Brand01,241.54,145.84,95.7,25
+PRD00818,Python Programming Book Model 0818,Books,Brand52,5864.67,4107.5,1757.17,5
+PRD00819,Sticky Notes Model 0819,Stationery,Brand19,7561.24,5640.44,1920.8,13
+PRD00820,Baby Shampoo Model 0820,Baby Products,Brand62,383.34,234.65,148.69,14
+PRD00821,Garden Gloves Model 0821,Garden and Outdoor,Brand39,630.24,374.95,255.29,5
+PRD00822,Car Cleaning Kit Model 0822,Automotive Accessories,Brand45,1340.63,643.97,696.66,27
+PRD00823,Packing Cubes Model 0823,Travel Accessories,Brand30,17233.7,12518.21,4715.49,5
+PRD00824,Fashion Ring Model 0824,Jewellery and Accessories,Brand60,43805.12,28145.18,15659.94,15
+PRD00825,Board Game Model 0825,Toys and Games,Brand20,602.69,354.54,248.15,26
+PRD00826,Pet Collar Model 0826,Pet Supplies,Brand56,221.44,171.87,49.57,9
+PRD00827,Hand Blender Model 0827,Kitchen Appliances,Brand13,69127.17,43829.53,25297.64,6
+PRD00828,Phone Holder Model 0828,Mobile Accessories,Brand36,1343.5,778.92,564.58,13
+PRD00829,Office Chair Model 0829,Furniture,Brand02,4780.04,2924.69,1855.35,14
+PRD00830,Yoga Block Model 0830,Health and Wellness,Brand35,19317.94,12402.94,6915.0,11
+PRD00831,Calculator Model 0831,Office Supplies,Brand01,6394.53,4451.76,1942.77,6
+PRD00832,Decorative Lights Model 0832,Home Decor,Brand34,872.32,441.26,431.06,29
+PRD00833,Biscuit Pack Model 0833,Food and Bakery,Brand12,8846.56,4534.18,4312.38,24
+PRD00834,Green Tea Model 0834,Beverages,Brand51,36.05,23.5,12.55,5
+PRD00835,Wrench Set Model 0835,Hardware and Tools,Brand70,698.17,494.53,203.64,24
+PRD00836,Power Strip Model 0836,Electrical Supplies,Brand61,14832.02,8743.36,6088.66,29
+PRD00837,Craft Paper Model 0837,Arts and Crafts,Brand10,1879.3,854.63,1024.67,16
+PRD00838,Gift Wrap Model 0838,Party Supplies,Brand48,241.47,174.49,66.98,9
+PRD00839,Flute Model 0839,Musical Instruments,Brand36,3975.12,2671.74,1303.38,28
+PRD00840,Reusable Lunch Box Model 0840,Eco-Friendly Products,Brand64,13663.56,9930.24,3733.32,3
+PRD00841,Power Bank Model 0841,Electronics,Brand32,667.41,381.45,285.96,23
+PRD00842,Formal Trousers Model 0842,Clothing,Brand04,22598.34,10293.0,12305.34,17
+PRD00843,Running Shoes Model 0843,Footwear,Brand74,37430.4,29658.68,7771.72,26
+PRD00844,Snack Pack Model 0844,Groceries,Brand36,586.47,434.4,152.07,17
+PRD00845,Face Wash Model 0845,Beauty and Personal Care,Brand17,274.04,131.2,142.84,25
+PRD00846,Ceramic Mug Model 0846,Home and Living,Brand25,579.2,320.87,258.33,24
+PRD00847,Yoga Mat Model 0847,Sports and Fitness,Brand15,284.9,195.24,89.66,5
+PRD00848,Python Programming Book Model 0848,Books,Brand53,2052.73,1340.77,711.96,20
+PRD00849,Notebook Model 0849,Stationery,Brand51,11.95,9.34,2.61,30
+PRD00850,Feeding Bottle Model 0850,Baby Products,Brand11,3011.36,2407.35,604.01,11
+PRD00851,Garden Gloves Model 0851,Garden and Outdoor,Brand64,124.45,92.49,31.96,28
+PRD00852,Seat Cover Model 0852,Automotive Accessories,Brand47,15963.38,10060.27,5903.11,8
+PRD00853,Travel Pillow Model 0853,Travel Accessories,Brand16,2371.99,1532.84,839.15,15
+PRD00854,Watch Model 0854,Jewellery and Accessories,Brand62,6044.86,3491.99,2552.87,10
+PRD00855,Building Blocks Model 0855,Toys and Games,Brand35,34382.39,22818.13,11564.26,5
+PRD00856,Pet Toy Model 0856,Pet Supplies,Brand01,106.32,63.76,42.56,17
+PRD00857,Electric Kettle Model 0857,Kitchen Appliances,Brand27,84611.39,56899.8,27711.59,2
+PRD00858,Phone Holder Model 0858,Mobile Accessories,Brand58,20669.21,15139.02,5530.19,19
+PRD00859,Wardrobe Model 0859,Furniture,Brand39,199387.42,126951.29,72436.13,4
+PRD00860,Massage Roller Model 0860,Health and Wellness,Brand69,28796.62,17130.04,11666.58,4
+PRD00861,File Folder Model 0861,Office Supplies,Brand46,70355.87,44200.42,26155.45,19
+PRD00862,Photo Frame Model 0862,Home Decor,Brand69,186.66,85.71,100.95,21
+PRD00863,Biscuit Pack Model 0863,Food and Bakery,Brand22,318.06,249.81,68.25,16
+PRD00864,Green Tea Model 0864,Beverages,Brand13,39.77,30.47,9.3,25
+PRD00865,Screwdriver Set Model 0865,Hardware and Tools,Brand29,11079.67,8820.28,2259.39,13
+PRD00866,Extension Board Model 0866,Electrical Supplies,Brand57,2062.93,1303.03,759.9,25
+PRD00867,Craft Paper Model 0867,Arts and Crafts,Brand62,263.57,149.61,113.96,16
+PRD00868,Gift Wrap Model 0868,Party Supplies,Brand62,2180.66,1718.09,462.57,12
+PRD00869,Drumsticks Model 0869,Musical Instruments,Brand07,5387.67,4010.81,1376.86,9
+PRD00870,Bamboo Toothbrush Model 0870,Eco-Friendly Products,Brand05,3085.1,1953.02,1132.08,15
+PRD00871,Laptop Stand Model 0871,Electronics,Brand07,5690.95,2677.63,3013.32,21
+PRD00872,Formal Trousers Model 0872,Clothing,Brand39,1354.88,828.64,526.24,11
+PRD00873,Casual Sneakers Model 0873,Footwear,Brand62,42967.49,20463.99,22503.5,29
+PRD00874,Coffee Powder Model 0874,Groceries,Brand26,2965.7,1494.83,1470.87,18
+PRD00875,Body Lotion Model 0875,Beauty and Personal Care,Brand49,10973.18,7280.45,3692.73,4
+PRD00876,Storage Basket Model 0876,Home and Living,Brand03,2219.75,1180.33,1039.42,4
+PRD00877,Resistance Band Model 0877,Sports and Fitness,Brand56,2268.22,1295.04,973.18,29
+PRD00878,Novel Model 0878,Books,Brand02,8455.32,5710.0,2745.32,6
+PRD00879,Marker Set Model 0879,Stationery,Brand56,913.33,661.88,251.45,10
+PRD00880,Baby Carrier Model 0880,Baby Products,Brand15,658.24,433.08,225.16,22
+PRD00881,Garden Gloves Model 0881,Garden and Outdoor,Brand23,3904.38,1999.37,1905.01,23
+PRD00882,Car Phone Holder Model 0882,Automotive Accessories,Brand16,6948.54,4452.36,2496.18,20
+PRD00883,Passport Holder Model 0883,Travel Accessories,Brand12,11457.42,6305.39,5152.03,13
+PRD00884,Bracelet Model 0884,Jewellery and Accessories,Brand13,181.83,121.07,60.76,16
+PRD00885,Educational Toy Model 0885,Toys and Games,Brand46,12852.91,6139.0,6713.91,10
+PRD00886,Pet Bed Model 0886,Pet Supplies,Brand28,230.13,175.33,54.8,18
+PRD00887,Rice Cooker Model 0887,Kitchen Appliances,Brand15,2791.21,1935.2,856.01,4
+PRD00888,Screen Protector Model 0888,Mobile Accessories,Brand29,1238.25,924.21,314.04,18
+PRD00889,Study Table Model 0889,Furniture,Brand11,2564.38,1440.16,1124.22,18
+PRD00890,Yoga Block Model 0890,Health and Wellness,Brand15,33271.94,24503.33,8768.61,9
+PRD00891,Printer Paper Model 0891,Office Supplies,Brand56,89.9,45.71,44.19,27
+PRD00892,Photo Frame Model 0892,Home Decor,Brand42,11283.67,6444.43,4839.24,26
+PRD00893,Bread Loaf Model 0893,Food and Bakery,Brand53,10877.05,7107.68,3769.37,9
+PRD00894,Green Tea Model 0894,Beverages,Brand21,1188.5,587.62,600.88,4
+PRD00895,Hammer Model 0895,Hardware and Tools,Brand56,602.1,280.37,321.73,19
+PRD00896,LED Bulb Model 0896,Electrical Supplies,Brand03,9530.72,4553.09,4977.63,12
+PRD00897,Paint Brush Set Model 0897,Arts and Crafts,Brand66,11299.84,8854.71,2445.13,16
+PRD00898,Birthday Balloons Model 0898,Party Supplies,Brand02,2525.26,1693.83,831.43,14
+PRD00899,Flute Model 0899,Musical Instruments,Brand38,423470.24,272209.13,151261.11,15
+PRD00900,Compost Bin Model 0900,Eco-Friendly Products,Brand24,45700.78,36033.23,9667.55,3
+PRD00901,Power Bank Model 0901,Electronics,Brand11,246.73,132.02,114.71,21
+PRD00902,Summer Dress Model 0902,Clothing,Brand64,21618.51,11862.04,9756.47,11
+PRD00903,Casual Sneakers Model 0903,Footwear,Brand03,2488.11,1624.83,863.28,14
+PRD00904,Tea Pack Model 0904,Groceries,Brand80,1458.31,666.52,791.79,18
+PRD00905,Sunscreen Model 0905,Beauty and Personal Care,Brand56,819.6,626.26,193.34,14
+PRD00906,Wall Clock Model 0906,Home and Living,Brand27,1540.29,1139.66,400.63,21
+PRD00907,Water Shaker Model 0907,Sports and Fitness,Brand18,398.14,291.26,106.88,28
+PRD00908,Business Book Model 0908,Books,Brand74,4051.77,2561.39,1490.38,6
+PRD00909,Sticky Notes Model 0909,Stationery,Brand79,2322.54,1309.75,1012.79,4
+PRD00910,Baby Blanket Model 0910,Baby Products,Brand15,1304.33,744.07,560.26,19
+PRD00911,Garden Tool Set Model 0911,Garden and Outdoor,Brand43,24888.05,17570.4,7317.65,23
+PRD00912,Seat Cover Model 0912,Automotive Accessories,Brand78,29944.8,17644.51,12300.29,5
+PRD00913,Travel Backpack Model 0913,Travel Accessories,Brand34,4835.85,2683.86,2151.99,3
+PRD00914,Silver Earrings Model 0914,Jewellery and Accessories,Brand12,29155.38,17083.71,12071.67,23
+PRD00915,Building Blocks Model 0915,Toys and Games,Brand11,4892.65,3406.29,1486.36,30
+PRD00916,Pet Toy Model 0916,Pet Supplies,Brand38,28467.91,15440.64,13027.27,17
+PRD00917,Electric Kettle Model 0917,Kitchen Appliances,Brand24,37061.08,16737.31,20323.77,6
+PRD00918,Wireless Charger Model 0918,Mobile Accessories,Brand13,410.29,285.54,124.75,28
+PRD00919,Bookshelf Model 0919,Furniture,Brand73,15545.39,9536.42,6008.97,19
+PRD00920,Heating Pad Model 0920,Health and Wellness,Brand80,711.62,382.58,329.04,19
+PRD00921,Desk Organizer Model 0921,Office Supplies,Brand01,806.89,536.9,269.99,16
+PRD00922,Wall Art Model 0922,Home Decor,Brand43,34853.69,15857.88,18995.81,6
+PRD00923,Bread Loaf Model 0923,Food and Bakery,Brand20,1659.52,764.69,894.83,22
+PRD00924,Green Tea Model 0924,Beverages,Brand42,3922.3,2881.14,1041.16,2
+PRD00925,Hammer Model 0925,Hardware and Tools,Brand58,2060.68,1280.41,780.27,15
+PRD00926,Electrical Tape Model 0926,Electrical Supplies,Brand17,66.57,50.25,16.32,10
+PRD00927,Craft Paper Model 0927,Arts and Crafts,Brand08,36612.28,18455.12,18157.16,17
+PRD00928,Gift Bag Model 0928,Party Supplies,Brand70,20.48,12.44,8.04,18
+PRD00929,Ukulele Model 0929,Musical Instruments,Brand34,31326.3,14914.58,16411.72,4
+PRD00930,Reusable Shopping Bag Model 0930,Eco-Friendly Products,Brand10,93.2,62.37,30.83,11
+PRD00931,Power Bank Model 0931,Electronics,Brand74,10796.67,5191.59,5605.08,29
+PRD00932,Cotton T-Shirt Model 0932,Clothing,Brand06,3414.58,1994.58,1420.0,20
+PRD00933,Running Shoes Model 0933,Footwear,Brand03,767.06,424.02,343.04,4
+PRD00934,Tea Pack Model 0934,Groceries,Brand63,142.43,75.48,66.95,21
+PRD00935,Hair Oil Model 0935,Beauty and Personal Care,Brand21,200.37,95.18,105.19,19
+PRD00936,Wall Clock Model 0936,Home and Living,Brand10,5399.41,3263.7,2135.71,18
+PRD00937,Skipping Rope Model 0937,Sports and Fitness,Brand12,282.82,189.8,93.02,30
+PRD00938,Data Science Handbook Model 0938,Books,Brand56,2043.16,1191.73,851.43,23
+PRD00939,Notebook Model 0939,Stationery,Brand37,27.29,14.91,12.38,12
+PRD00940,Baby Shampoo Model 0940,Baby Products,Brand28,260.81,119.1,141.71,12
+PRD00941,Garden Tool Set Model 0941,Garden and Outdoor,Brand67,1111.17,509.23,601.94,30
+PRD00942,Car Cleaning Kit Model 0942,Automotive Accessories,Brand54,168.7,132.68,36.02,24
+PRD00943,Suitcase Model 0943,Travel Accessories,Brand39,67147.06,45386.53,21760.53,9
+PRD00944,Bracelet Model 0944,Jewellery and Accessories,Brand25,954.42,457.13,497.29,6
+PRD00945,Soft Toy Model 0945,Toys and Games,Brand69,9294.94,6376.85,2918.09,17
+PRD00946,Pet Bed Model 0946,Pet Supplies,Brand05,12056.67,6794.3,5262.37,14
+PRD00947,Mixer Grinder Model 0947,Kitchen Appliances,Brand44,3484.9,1982.11,1502.79,1
+PRD00948,Wireless Charger Model 0948,Mobile Accessories,Brand58,6744.18,4206.44,2537.74,21
+PRD00949,Coffee Table Model 0949,Furniture,Brand60,3670.84,1761.4,1909.44,21
+PRD00950,Yoga Block Model 0950,Health and Wellness,Brand04,446.75,296.44,150.31,6
+PRD00951,Calculator Model 0951,Office Supplies,Brand05,109.78,82.43,27.35,25
+PRD00952,Wall Art Model 0952,Home Decor,Brand57,6056.59,3659.84,2396.75,16
+PRD00953,Bread Loaf Model 0953,Food and Bakery,Brand07,573.74,290.16,283.58,11
+PRD00954,Coffee Can Model 0954,Beverages,Brand72,1209.15,582.2,626.95,30
+PRD00955,Wrench Set Model 0955,Hardware and Tools,Brand57,96.62,45.07,51.55,14
+PRD00956,Power Strip Model 0956,Electrical Supplies,Brand44,43215.3,20226.62,22988.68,15
+PRD00957,Acrylic Paint Model 0957,Arts and Crafts,Brand33,4997.63,2860.46,2137.17,3
+PRD00958,Gift Wrap Model 0958,Party Supplies,Brand09,44.56,32.52,12.04,18
+PRD00959,Flute Model 0959,Musical Instruments,Brand27,59695.18,31446.45,28248.73,27
+PRD00960,Bamboo Toothbrush Model 0960,Eco-Friendly Products,Brand16,30647.48,20941.33,9706.15,17
+PRD00961,Webcam Model 0961,Electronics,Brand15,5589.59,3588.88,2000.71,23
+PRD00962,Denim Jeans Model 0962,Clothing,Brand40,1345.19,770.68,574.51,26
+PRD00963,Casual Sneakers Model 0963,Footwear,Brand34,2517.9,1329.29,1188.61,30
+PRD00964,Wheat Flour Model 0964,Groceries,Brand48,50.68,38.24,12.44,14
+PRD00965,Shampoo Model 0965,Beauty and Personal Care,Brand27,1768.97,1225.12,543.85,21
+PRD00966,Ceramic Mug Model 0966,Home and Living,Brand17,8565.21,4125.87,4439.34,27
+PRD00967,Gym Gloves Model 0967,Sports and Fitness,Brand12,4947.67,3801.49,1146.18,6
+PRD00968,Cookbook Model 0968,Books,Brand26,4452.75,3417.83,1034.92,5
+PRD00969,Notebook Model 0969,Stationery,Brand22,67.27,36.03,31.24,9
+PRD00970,Baby Carrier Model 0970,Baby Products,Brand77,2130.44,1317.52,812.92,28
+PRD00971,Garden Gloves Model 0971,Garden and Outdoor,Brand41,115.83,89.79,26.04,1
+PRD00972,Car Charger Model 0972,Automotive Accessories,Brand76,378.06,266.71,111.35,27
+PRD00973,Travel Backpack Model 0973,Travel Accessories,Brand13,12011.5,5881.32,6130.18,24
+PRD00974,Silver Earrings Model 0974,Jewellery and Accessories,Brand07,2212.88,1410.36,802.52,30
+PRD00975,Puzzle Set Model 0975,Toys and Games,Brand76,118.45,53.33,65.12,17
+PRD00976,Cat Food Model 0976,Pet Supplies,Brand04,991.59,601.69,389.9,6
+PRD00977,Hand Blender Model 0977,Kitchen Appliances,Brand04,24587.61,17912.88,6674.73,21
+PRD00978,Memory Card Model 0978,Mobile Accessories,Brand62,21352.98,14403.32,6949.66,1
+PRD00979,Bookshelf Model 0979,Furniture,Brand53,117511.0,71560.99,45950.01,19
+PRD00980,Yoga Block Model 0980,Health and Wellness,Brand66,3743.19,1857.45,1885.74,3
+PRD00981,File Folder Model 0981,Office Supplies,Brand74,1691.98,1139.17,552.81,17
+PRD00982,Wall Art Model 0982,Home Decor,Brand26,19469.45,13788.04,5681.41,14
+PRD00983,Bread Loaf Model 0983,Food and Bakery,Brand17,34.12,20.65,13.47,24
+PRD00984,Fruit Juice Model 0984,Beverages,Brand45,24.44,19.51,4.93,10
+PRD00985,Wrench Set Model 0985,Hardware and Tools,Brand50,78.01,60.57,17.44,15
+PRD00986,Electrical Tape Model 0986,Electrical Supplies,Brand09,216.55,99.03,117.52,1
+PRD00987,Acrylic Paint Model 0987,Arts and Crafts,Brand49,55.04,33.89,21.15,10
+PRD00988,Gift Bag Model 0988,Party Supplies,Brand43,160.91,87.25,73.66,19
+PRD00989,Acoustic Guitar Model 0989,Musical Instruments,Brand46,139061.71,71668.35,67393.36,29
+PRD00990,Reusable Shopping Bag Model 0990,Eco-Friendly Products,Brand37,3235.86,2117.83,1118.03,2
+PRD00991,Power Bank Model 0991,Electronics,Brand24,11000.08,8197.93,2802.15,16
+PRD00992,Hoodie Model 0992,Clothing,Brand38,11623.29,7944.29,3679.0,22
+PRD00993,Formal Shoes Model 0993,Footwear,Brand12,65267.94,49594.55,15673.39,19
+PRD00994,Snack Pack Model 0994,Groceries,Brand79,1108.22,690.31,417.91,1
+PRD00995,Sunscreen Model 0995,Beauty and Personal Care,Brand30,12526.04,9929.35,2596.69,11
+PRD00996,Cushion Cover Model 0996,Home and Living,Brand14,20934.53,14942.34,5992.19,3
+PRD00997,Yoga Mat Model 0997,Sports and Fitness,Brand79,227.68,170.85,56.83,4
+PRD00998,Data Science Handbook Model 0998,Books,Brand51,10702.48,6880.92,3821.56,21
+PRD00999,Notebook Model 0999,Stationery,Brand37,5069.06,2949.06,2120.0,29
+PRD01000,Baby Blanket Model 1000,Baby Products,Brand42,14887.99,10988.41,3899.58,25

@@ -1,0 +1,44 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# ML experiment outputs
+mlruns/
+mlartifacts/
+
+# Generated model files
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Generated datasets and analysis outputs
+data/
+cleaned/
+analysis/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+# MLflow local tracking data
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+mlruns/
